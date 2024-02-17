@@ -6,7 +6,7 @@
 
 ## Purpose
 
-TDI/SDI sometimes don't do printable, searchable manuals and this bugs me. This is an attempt to correct that. 
+TDI/SDI sometimes don't do printable, searchable manuals and this bugs me. This is an attempt to correct that.
 
 ## Manual Information
 
