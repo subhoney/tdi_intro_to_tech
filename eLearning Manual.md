@@ -15,6 +15,7 @@
   - [Auxiliary Cylinders](#auxiliary-cylinders)
   - [Regulators](#regulators)
   - [Buoyancy Compensators](#buoyancy-compensators)
+  - [Instrumentation](#instrumentation)
 
 # TDI Intro to Tech
 
@@ -226,3 +227,21 @@ Regardless of the configuration, it is important that the diver's alternate seco
 Entanglement is a hazard encountered in both sport and technical diving. Yet in some sport diving configurations the various hoses that are attached to the first stage (linking it to second stages, inflators, and gauges) may be routinely arranged in a manner that forms large loops of hose extending outward on either side of the diver. Obviously any protruding hose is a potential point of entanglement and in technical configurations, a concerted effort is made to route all hoses so as to eliminate or at least minimize this problem. Proper hose routing can be a bit of an art, but the objective is to keep the hoses tucked in behind the diver as much as possible. With double cylinders this may be facilitated by attaching the hoses from the right side of the diver to the left first stage and vice versa; basically, the hoses are arranged to point inward and/or downward from each first stage, rather than pointing directly outward. Naturally, to maintain redundancy the hoses for any similar items (such as two second stages, or the BC and dry suit inflators) always should be routed to separate first stages.
 
 When a cylinder contains nitrox, the attached regulator (and all accessories connected to that regular) must be suitable for such nitrox use; in particular, any items attached to a deco cylinder will generally require special preparation for oxygen service.
+
+## Instrumentation
+
+With an eye towards redundancy, the technical diver should be equipped with a minimum of two depth measuring devices and two timing devices. This may be accomplished through any combination of mechanical or electronic instruments such as depth gauges, dive watches and bottom timers, and/or personal dive computers.
+
+It is important for the diver to carefully review the owner's manual and thoroughly evaluate the full capabilities of his dive computer prior to any attempt at using it in technical diving activities. There is a wide assortment of dive computers currently available; the specific features and capabilities can vary significantly between the various models. For the sake of discussion, dive computers may be considered in terms of three broad categories.
+
+Some low-end dive computers are intended exclusively for sport diving, and may enter a "lock-out mode" (shutting down and ceasing to function for a specified period of time) whenever a no-deco limit is exceeded. This type of computer is clearly unsuitable for decompression diving. However, some of these models might offer an alternate "gauge mode" where the calculating functions can be turned off, and the unit then will serve simply as an electronic depth gauge and bottom timer for use with dive tables in deco applications.
+
+Though intended primarily for sport diving use, some dive computers also will handle deco calculations quite effectively during the dive; however, they may lack the features to thoroughly plan a decompression profile ahead of time. This type can be very useful for monitoring actual decompression status during a dive, but will require the diver to rely upon dive tables for all pre-dive deco planning. Often, this mid-range type of dive computer will be nitrox-programmable, but typically only for a single breathing mix.
+
+Technical dive computers are specifically designed for decompression diving; in addition to monitoring deco status during the dive, they also accommodate detailed pre-dive deco planning. Often, these units will be programmable for multiple breathing mixes, allowing a diver to take full advantage of the various options related to deco gases. High-end technical models also may be trimix-programmable and rebreather-compatible. While it would be ideal for the diver to be equipped with two identical technical dive computers, some technical divers routinely depend upon the use of dive tables (and related manual calculations) for some or all of their pre-dive planning, and they routinely rely upon depth gauges and bottom timers for some or all of their instrumentation.
+
+In addition to depth and time monitoring, the diver also needs to monitor his gas supplies. At least one SPG (submersible pressure gauge) is needed for double-cylinders with an isolation manifold, and some divers prefer to use two SPGs with this configuration (one on each side, in the event that one side needs to be shut down). When employing independent doubles, an SPG will be needed on each cylinder. Naturally, an SPG is also needed when using a single primary cylinder. In addition, an SPG is commonly used on all pony bottles and auxiliary cylinders.
+
+When a cylinder contains nitrox, the attached SPG (or air-integrated dive computer) must be suitable for such nitrox use; in particular, any SPG (or air-integrated dive computer) that is attached to a deco cylinder will generally require special preparation for oxygen service.
+
+Because of the number of required instruments, a diver typically will carry at least some of his instruments in a console secured to his rig. Other instruments normally will be worn on the wrist. For a deco or travel cylinder, the SPG will normally be bungeed or otherwise secured to the cylinder itself.
