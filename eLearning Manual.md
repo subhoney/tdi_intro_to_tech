@@ -34,9 +34,6 @@ Click <https://www.tdisdi.com/faqs/> link to open resource.
 
 # Chapter 1: What is Techincal Diving?
 
-## Topics Covered in this Chapter
-
-- Topics Covered in this Chapter:
 - Introduction - Welcome to the TDI Introduction to Tech course.
 - Some Basic Terminology
 - Technical vs. Sport
@@ -133,8 +130,6 @@ Maybe you still enjoy those shallow tropical reefs. No problem! You do not need 
 Clearly, the advanced knowledge and skills gained through technical training will help the participant become a more comfortable, capable, and confident diver overall.
 
 # Chapter 2: Technical Diving Equipment
-
-## Topics Covered in this Chapter
 
 - General Equipment Issues
 - Primary and Auxiliary Cylinders
