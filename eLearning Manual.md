@@ -299,7 +299,15 @@ The reader might immediately recognize the traditional purposes for these two it
 
 These items serve additional roles in technical diving. The lift bag may be employed as a redundant source of buoyancy control in the event of a catastrophic BCD failure. The lift bag and reel, in combination, may be used as a surface marker and possible signaling device. In situations where the diver cannot use the anchor line or other fixed line for his ascent, the lift bag and reel, again in combination, will provide an effective ascent platform for the diver as he returns towards the surface and completes his required decompression stops.
 
-With these alternate uses in mind, the lift bag and reel are deemed to be standard equipment for technical diving. Naturally, the reel must provide a sufficient length of line; depending upon the manner in which it is deployed, this may require a length that is 1½ to 3 times that of the diver’s maximum depth. And of course, the lift bag must provide sufficient lift for the diver and his equipment; the minimum size is often cited as 12 kg / 25 lbs of lift, and in some circumstances the diver routinely might opt for a bag twice this capacity. When used for signaling purposes in the open ocean, color can also be a factor in the bag’s visibility and in general bright yellow, orange and red appear to be the most appropriate colors (a white-colored bag might too easily blend with the foam of any waves on the surface).
+// TODO: Does this actually embed? Should it be a link?
+
+<iframe 
+  width="560" height="315" 
+  src="https://www.youtube.com/watch?v=gRke6Nc5ODk" 
+  frameborder="0" 
+  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 ### Surface Signals
 
