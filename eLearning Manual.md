@@ -17,6 +17,7 @@
   - [Buoyancy Compensators](#buoyancy-compensators)
   - [Instrumentation](#instrumentation)
   - [Exposure Protection](#exposure-protection)
+  - [Weights](#weights)
 
 # TDI Intro to Tech
 
@@ -257,4 +258,8 @@ Correctly or incorrectly, some sport divers have adopted the technique of relyin
 
 To further enhance the insulating properties of his dry suit in cold water, a diver may elect to use argon (an inert gas) for suit inflation. Argon has a far lower level of thermal conductivity than air or other breathing gases. The supply of argon is carried in a small cylinder, typically attached to the side of the BCD harness or backplate, tucked behind the diver; a standard first stage and inflator hose are used with this cylinder for dry suit inflation. Naturally, the argon cylinder should be prominently labeled, and frequently it is also painted an orange color to avoid any confusion regarding its contents. If inhaled, argon can cause anoxia and significant narcosis.
 
-Editor's note: _Anoxia_ is the total absense of oxygen; compare with _hypoxia_, where oxygen is present in breathing gas, but not in enough of a quantity to support metabolization.
+Editor's note: _Anoxia_ is the total absense of oxygen; compare with _hypoxia_, where oxygen is present in breathing gas, but not in enough of a quantity to support metabolization. Breathing from an argon cylinder will cause anoxia, while breating a 12% O2 cylinder (at the surface) will cause hypoxia.
+
+## Weights
+
+The technical diver will usually require some sort of weight system. This may be in the form of a weight belt, a weight harness, or weight pockets integrated into the BCD, and may include any combination of these systems. Because of the added weight of his gear configuration, the technical diver may require far less lead in his weight system than his sport diving counterpart. It is important, however, for the technical diver to realize that he is carrying a substantial quantity of breathing gas, which contributes to the initial weight of his gear and will be consumed during his dive. Therefore, the diver should properly determine his weighting requirements based upon buoyancy characteristics at the end of his dive, so that he will be able to maintain effective control during any safety or decompression stops. It is also noted that improper weighting (either over-weighting or under-weighting) can result in both over-exertion and increased gas consumption throughout the dive.
