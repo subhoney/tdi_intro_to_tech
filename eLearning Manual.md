@@ -19,6 +19,10 @@
   - [Exposure Protection](#exposure-protection)
   - [Weights](#weights)
   - [Cutting Devices](#cutting-devices)
+  - [Underwater Slates, Lift Bag and Reel and Surface Signals](#underwater-slates-lift-bag-and-reel-and-surface-signals)
+    - [Underwater Slates](#underwater-slates)
+    - [Lift Bag and Reel](#lift-bag-and-reel)
+    - [Surface Signals](#surface-signals)
 
 # TDI Intro to Tech
 
@@ -276,3 +280,27 @@ The technical diver should be equipped with a minimum of two cutting devices. Th
 The knife has long been the diver’s standard cutting tool, and it will serve quite effectively in many emergency situations such as when a diver needs to cut himself free of an entanglement with kelp or monofilament fishing line. However, a diver might encounter other entanglement hazards that are not as easily cut; these can include electrical wires and cables that dangle around a wreck, the metal leaders on some fishing lines, and the materials used in constructing heavier fishing nets. For dealing with these difficult-to-cut hazards, shears often are more effective than a knife. Some equipment manufacturers offer heavy-duty shears specifically designed for dive use. Some divers alternately opt for less expensive utility scissors (sometimes referred to as paramedic shears); these are often available from dive suCutting Devices 2ppliers, and also can be found in the tool aisle of some discount retail stores. Lineman’s pliers or side-cutters from the local hardware store also may be useful but, because these items normally are not made of stainless steel, they require greater care to minimize rust and corrosion. Some divers routinely add a pocket-size multi-tool (with folding pliers, screwdrivers, etc.) to their kit, and without a doubt it will prove helpful for simple topside repairs; but before counting on such a device for emergency underwater use, the diver must ensure that he can reliably access its various cutting features while wearing dive gloves.
 
 knife.jpg
+
+## Underwater Slates, Lift Bag and Reel and Surface Signals
+
+### Underwater Slates
+
+All divers have routine need for a slate. It is most frequently used in underwater communication between dive buddies. It also is essential for making notes and drawing maps of underwater sites.
+
+slate.jpg
+
+In addition, a separate slate carried in a pocket or worn on the wrist is a critically important piece of equipment for the technical diver as this is where he records the details of his dive plan and mandatory decompression stops. This slate will serve as the primary reference when using a depth gauge and bottom timer, or as a back-up reference when using a dive computer.
+
+### Lift Bag and Reel
+
+The reader might immediately recognize the traditional purposes for these two items – the lift bag can be used to recover heavy objects off the bottom, and the reel can be used for navigation in situations where limited visibility is a factor.
+
+These items serve additional roles in technical diving. The lift bag may be employed as a redundant source of buoyancy control in the event of a catastrophic BCD failure. The lift bag and reel, in combination, may be used as a surface marker and possible signaling device. In situations where the diver cannot use the anchor line or other fixed line for his ascent, the lift bag and reel, again in combination, will provide an effective ascent platform for the diver as he returns towards the surface and completes his required decompression stops.
+
+With these alternate uses in mind, the lift bag and reel are deemed to be standard equipment for technical diving. Naturally, the reel must provide a sufficient length of line; depending upon the manner in which it is deployed, this may require a length that is 1½ to 3 times that of the diver’s maximum depth. And of course, the lift bag must provide sufficient lift for the diver and his equipment; the minimum size is often cited as 12 kg / 25 lbs of lift, and in some circumstances the diver routinely might opt for a bag twice this capacity. When used for signaling purposes in the open ocean, color can also be a factor in the bag’s visibility and in general bright yellow, orange and red appear to be the most appropriate colors (a white-colored bag might too easily blend with the foam of any waves on the surface).
+
+### Surface Signals
+
+Depending upon location and circumstances, at a minimum each diver should be equipped with both an audible and a visual surface signaling device. A simple whistle has long been the standard audible signal. For greater effectiveness, the diver might also consider one of the air-powered horn-like devices that are attached in-line on the BCD inflator hose. A brightly colored inflatable tube, sometimes referred to as a safety sausage, makes an effective visual device that is especially advantageous in rough seas. The diver also might consider a signaling mirror, or the signal flares specially intended for divers.
+
+Surrface Signals.jpg
