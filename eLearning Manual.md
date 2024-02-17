@@ -11,6 +11,7 @@
 - [Chapter 2: Technical Diving Equipment](#chapter-2-technical-diving-equipment)
   - [Topics Covered in this Chapter](#topics-covered-in-this-chapter-1)
   - [General Equipment Issues](#general-equipment-issues)
+  - [Primary Cylinders](#primary-cylinders)
 
 # TDI Intro to Tech
 
@@ -146,3 +147,19 @@ Actually, the basic technical set-up shares much in common with its sport diving
 In addition to the basic set-up, the standard equipment unit for technical diving frequently includes other items and accessories that may be a bit alien to the sport diver.
 
 In terms of equipment selection and configuration, the seasoned technical diver is governed by two key principles. First, he ensures that he has the proper equipment for a particular dive, including redundancy of all critical equipment. Second, he seeks to streamline his overall equipment configuration through careful arrangement of required components, and also by eliminating any accessory items that are unnecessary for a particular dive.
+
+## Primary Cylinders
+
+Air is everything! In selecting equipment for a planned dive, the technical diver’s first concern will be his supply of breathing gas, based upon the requirements for a particular dive, as well as a suitable reserve for contingencies. Technical diving may involve extended bottom times, perhaps at relatively deep depths, with additional time spent underwater during mandatory decompression stops. Sometimes a diver will be able to meet his gas supply requirements with a single high-capacity cylinder, though more frequently he will opt for double cylinders. In addition to volume, double cylinders offer an advantage to the technical diver in terms of redundancy.
+
+The preferred and most effective method for using double cylinders is to join them together into a single unit with an isolation manifold. This configuration allows for two separate (redundant) first stage regulators to be used, with one first stage attached to the outlet valve on each side of the manifold. With the isolation valve open, each regulator is able to deliver gas to the diver from both cylinders.
+
+Manifold.jpg
+
+In the event of a regulator failure resulting in a free-flow, the diver can readily reach back and shut down the outlet valve for the affected regulator. By doing so, the wasteful discharge of gas can be eliminated. Then, even with that one regulator shut down, the diver still will be able to draw upon the contents of both cylinders through his remaining regulator.
+
+Isolate Manifold.jpg
+
+Though fairly rare, it is also possible to experience a catastrophic loss of gas due to a cylinder or valve failure. Such a situation might involve a ruptured neck o-ring (where the valve attaches into the cylinder), or a ruptured burst disk (pressure-relief mechanism, located in the body of a valve between the cylinder and the valve’s internal mechanism). In this case there is nothing a diver can do underwater to shut down the actual leak; however, the diver can segregate the offending o-ring or burst disk by closing the manifold’s isolation valve, thus limiting the loss of gas to the affected side, while preserving the gas in his remaining cylinder.
+
+Isolate Manifold.jpg
