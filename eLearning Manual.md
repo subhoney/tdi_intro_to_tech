@@ -12,6 +12,7 @@
   - [Topics Covered in this Chapter](#topics-covered-in-this-chapter-1)
   - [General Equipment Issues](#general-equipment-issues)
   - [Primary Cylinders](#primary-cylinders)
+  - [Auxiliary Cylinders](#auxiliary-cylinders)
 
 # TDI Intro to Tech
 
@@ -175,3 +176,17 @@ When using only a single cylinder, redundancy in gas supply may be provided thro
 Cylinder valves are often available with a choice of either DIN or yoke fittings. In many cases either will work equally well. However, technical divers tend to prefer the DIN fitting because it completely encloses and internally traps that critical O-ring where the first stage mates to the valve, and its threaded (screw-in) connection generally provides a more secure attachment in the event of accidental impact (such as colliding with an unnoticed overhead obstacle while diving inside a cave or wreck).
 
 As will be addressed later in this course, technical divers may employ breathing gases other than air. Whenever an alternate gas is used, the primary cylinders need to be appropriately prepared and labeled, and a completed contents tag should be affixed to the cylinders.
+
+## Auxiliary Cylinders
+
+While the sport diver typically uses only a single breathing mixture during a dive, the technical diver has the option of employing multiple gases for maximum benefit throughout his dive.
+
+With appropriate training, a technical diver may utilize a high-content deco gas (50% to 100% oxygen) during his staged decompression stops, either for physiological advantage or to significantly reduce the time required at those stops.
+
+Aux_Cylinders.jpg
+
+A pony-size cylinder typically is used for the deco gas. Sometimes it is carried by the diver throughout his entire dive, while other times it may be left by the diver in a rendezvous location for later retrieval. It is normally attached to the front of the BC, with its valve-end clipped to a D-ring on the diver’s chest and its base-end clipped to another D-ring near the diver’s hip. Some divers prefer to wear the deco cylinder diagonally across the torso, while others prefer to have it attached more toward one side and tucked under the arm.
+
+The high-content deco gas, if inadvertently used at a deeper depth, will pose a significant risk of CNS (central nervous system) oxygen toxicity. Thus, it is standard practice to label this cylinder quite prominently, for ready identification by both the diver and his buddy. In addition, the deco cylinder is normally carried with the regulator pressurized to preclude water from entering the regulator, but with the valve turned off so as to minimize the risk of accidentally breathing this mix at depth. This same procedure, with the regulator pressurized and the valve turned-off, also works well when the deco cylinder is left at a rendezvous location, as it prevents any free-flow loss of gas during the diver’s absence.
+
+In addition to the deco gas, some technical divers also elect to carry a travel gas in an additional auxiliary cylinder. This travel gas may be used during the diver’s descent prior to switching over to the bottom gas in his primary cylinders, and/or during the ascent prior to switching over to his deco gas. A travel cylinder is rigged in the same manner as the deco cylinder; some divers prefer to wear the deco and travel cylinders on opposite sides of their body, while others prefer to carry them both on the same side and positioned one below the other.
