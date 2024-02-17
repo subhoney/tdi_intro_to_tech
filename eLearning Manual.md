@@ -291,6 +291,8 @@ slate.jpg
 
 In addition, a separate slate carried in a pocket or worn on the wrist is a critically important piece of equipment for the technical diver as this is where he records the details of his dive plan and mandatory decompression stops. This slate will serve as the primary reference when using a depth gauge and bottom timer, or as a back-up reference when using a dive computer.
 
+Editor's note: The GUE metholdoly for underwater communication is wetNotes, and I agree with this over slates. They are carried in the right drysuit thigh pocket, bungeed in as normal.
+
 ### Lift Bag and Reel
 
 The reader might immediately recognize the traditional purposes for these two items – the lift bag can be used to recover heavy objects off the bottom, and the reel can be used for navigation in situations where limited visibility is a factor.
