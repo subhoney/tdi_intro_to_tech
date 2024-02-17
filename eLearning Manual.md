@@ -23,6 +23,7 @@
     - [Underwater Slates](#underwater-slates)
     - [Lift Bag and Reel](#lift-bag-and-reel)
     - [Surface Signals](#surface-signals)
+  - [Other Useful Accessories](#other-useful-accessories)
 
 # TDI Intro to Tech
 
@@ -299,10 +300,24 @@ The reader might immediately recognize the traditional purposes for these two it
 
 These items serve additional roles in technical diving. The lift bag may be employed as a redundant source of buoyancy control in the event of a catastrophic BCD failure. The lift bag and reel, in combination, may be used as a surface marker and possible signaling device. In situations where the diver cannot use the anchor line or other fixed line for his ascent, the lift bag and reel, again in combination, will provide an effective ascent platform for the diver as he returns towards the surface and completes his required decompression stops.
 
-Editor's note: the eLearning manual includes an embedded link to a 1min [video](https://www.youtube.com/watch?v=gRke6Nc5ODk) of some surface skills.
+Editor's note: the eLearning manual includes an embedded link to a 1min [video](https://www.youtube.com/watch?v=gRke6Nc5ODk) of the deployment of an SMB/DAM.
 
 ### Surface Signals
 
 Depending upon location and circumstances, at a minimum each diver should be equipped with both an audible and a visual surface signaling device. A simple whistle has long been the standard audible signal. For greater effectiveness, the diver might also consider one of the air-powered horn-like devices that are attached in-line on the BCD inflator hose. A brightly colored inflatable tube, sometimes referred to as a safety sausage, makes an effective visual device that is especially advantageous in rough seas. The diver also might consider a signaling mirror, or the signal flares specially intended for divers.
 
 Surrface Signals.jpg
+
+## Other Useful Accessories
+
+A lost or damaged dive mask may be a mere inconvenience in sport diving, but it can be a far more significant and problematic issue in technical diving. Without a mask, the diver likely will be unable to accurately read his instrumentation, and may be equally unable to decipher those required deco obligations that he so carefully recorded ahead of time on his slate. Therefore, many technical divers elect to carry a spare mask tucked away in a pocket of their BCD or dry suit.
+
+When diving in the open ocean, a diver often will use the boat’s anchor line for his descents and ascents. However, while trying to hang on to that line during mandatory deco stops in rough seas with a rocking boat, it may be neither accurate nor comfortable for the diver – the anchor line will be repeatedly and perhaps violently pulled up and down in response to each passing wave. In these rough conditions the diver may opt for a Jon line, which is basically a line about 3 metres or 10 feet in length with a hook-like device on one end that attaches to the anchor line, and a loop on the other end for the diver to hold. The Jon line effectively keeps the diver connected to the anchor line, yet allows him to avoid the bouncing motion as he hovers in place a short distance away.
+
+The snorkel is a standard item in sport diving and some technical divers continue to use it on a regular basis, attached to the mask strap in the usual manner. More often, though, the typical technical diver elects to remove the snorkel from his mask. Some may simply view it as a nuisance, especially in strong currents; others, depending upon their equipment configuration and/or the diving environment, may view it as a possible entanglement hazard (including entanglement with their own regulator hose when a long hose is routed behind their head). Yet some divers are reluctant to completely abandon this potentially useful piece of equipment and instead opt for a folding snorkel stashed in a pocket, which then can be brought into service when needed.
+
+Many divers routinely include a small dive light in their equipment package, finding it useful for looking into dark holes or under ledges. Others, such as wreck and cave divers, include a light out of necessity. For sake of redundancy, whenever a light is actually needed the diver should have a minimum of two. Some divers select a large, self-contained, lantern-style model as their primary light, with a smaller back-up light stashed in a pocket or attached to their rig. Those who frequently require a lot of light sometimes prefer the canister style; its separate battery pack can be mounted towards the rear of their BCD harness (or even mounted onto their cylinder), and its small lamp unit can then be easily hand-held or attached to the back of their hand or wrist.
+
+The strobe is another type of light useful for the technical diver. It may be used to mark the anchor line or another ascent line in murky water, making it easier to locate. It also may be used as a personal marker in an emergency, should the diver find himself on the surface at night with his boat nowhere in sight.
+
+A type of reel popular among some open ocean wreck divers is a Jersey up-line. It is basically comprised of a steel bar wrapped with heavy line (rope) sufficient in length to reach the surface from the diver’s maximum depth. It is an emergency ascent device, useful in strong currents where the diver is unable to make his ascent via the boat’s anchor line. In such a case, because of the current the diver would likely drift a significant distance away from the wreck (and away from his dive boat) by the time that he completes a free ascent and his mandatory deco stops. To use the Jersey up-line, the diver ties it off to the wreck and reels himself out during his ascent, so that he remains attached to the wreck and does not drift away. Once back at the surface, the diver simply cuts-away and discards the line. The ecologically-minded diver prefers to use a bio-degradable line, but this will obviously require replacement of his unused line on a regular basis. The Jersey up-line is fairly large and a bit cumbersome, so it is often attached towards the rear of the diver’s harness, or perhaps attached to his cylinders.
