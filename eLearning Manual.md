@@ -299,15 +299,7 @@ The reader might immediately recognize the traditional purposes for these two it
 
 These items serve additional roles in technical diving. The lift bag may be employed as a redundant source of buoyancy control in the event of a catastrophic BCD failure. The lift bag and reel, in combination, may be used as a surface marker and possible signaling device. In situations where the diver cannot use the anchor line or other fixed line for his ascent, the lift bag and reel, again in combination, will provide an effective ascent platform for the diver as he returns towards the surface and completes his required decompression stops.
 
-// TODO: Does this actually embed? Should it be a link?
-
-<iframe 
-  width="560" height="315" 
-  src="https://www.youtube.com/watch?v=gRke6Nc5ODk" 
-  frameborder="0" 
-  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+Editor's note: the eLearning manual includes an embedded link to a 1min [video](https://www.youtube.com/watch?v=gRke6Nc5ODk) of some surface skills.
 
 ### Surface Signals
 
