@@ -16,6 +16,7 @@
   - [Regulators](#regulators)
   - [Buoyancy Compensators](#buoyancy-compensators)
   - [Instrumentation](#instrumentation)
+  - [Exposure Protection](#exposure-protection)
 
 # TDI Intro to Tech
 
@@ -245,3 +246,13 @@ In addition to depth and time monitoring, the diver also needs to monitor his ga
 When a cylinder contains nitrox, the attached SPG (or air-integrated dive computer) must be suitable for such nitrox use; in particular, any SPG (or air-integrated dive computer) that is attached to a deco cylinder will generally require special preparation for oxygen service.
 
 Because of the number of required instruments, a diver typically will carry at least some of his instruments in a console secured to his rig. Other instruments normally will be worn on the wrist. For a deco or travel cylinder, the SPG will normally be bungeed or otherwise secured to the cylinder itself.
+
+## Exposure Protection
+
+Appropriate exposure protection is a concern in all types of diving. This concern is amplified in some types of technical diving where the diver will experience extended time at depth, plus additional time coupled with limited physical activity during mandatory deco stops; therefore, decompression diving usually requires an increased level of exposure protection (as compared to no-stop sport diving in the same environment). Certainly, a heavier-weight wetsuit will work well in some situations, but often the technical diver will opt for a dry suit, even in relatively warm water.
+
+Personal comfort is not the only issue. Cold can reduce a diver’s overall level of alertness, and negatively influence his rational thought processes. Cold also can have an adverse impact upon a diver’s susceptibility to decompression sickness. Thus, in addition to comfort, exposure protection is a safety issue.
+
+Correctly or incorrectly, some sport divers have adopted the technique of relying upon dry suit inflation as their primary means of buoyancy control while underwater. With the significantly greater weight of technical gear, such an approach is often no longer practical; the dry suit simply would be far too over-inflated. Typically, the technical diver limits his suit inflation to the minimum required for warmth and comfort, and otherwise utilizes his BCD for buoyancy control. However, as previously noted, the dry suit also may be employed for redundant buoyancy on an emergency basis.
+
+To further enhance the insulating properties of his dry suit in cold water, a diver may elect to use argon (an inert gas) for suit inflation. Argon has a far lower level of thermal conductivity than air or other breathing gases. The supply of argon is carried in a small cylinder, typically attached to the side of the BCD harness or backplate, tucked behind the diver; a standard first stage and inflator hose are used with this cylinder for dry suit inflation. Naturally, the argon cylinder should be prominently labeled, and frequently it is also painted an orange color to avoid any confusion regarding its contents. If inhaled, argon can cause anoxia and significant narcosis.
