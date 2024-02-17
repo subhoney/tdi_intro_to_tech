@@ -18,6 +18,7 @@
   - [Instrumentation](#instrumentation)
   - [Exposure Protection](#exposure-protection)
   - [Weights](#weights)
+  - [Cutting Devices](#cutting-devices)
 
 # TDI Intro to Tech
 
@@ -262,4 +263,16 @@ Editor's note: _Anoxia_ is the total absense of oxygen; compare with _hypoxia_, 
 
 ## Weights
 
+weights.jpg
+
 The technical diver will usually require some sort of weight system. This may be in the form of a weight belt, a weight harness, or weight pockets integrated into the BCD, and may include any combination of these systems. Because of the added weight of his gear configuration, the technical diver may require far less lead in his weight system than his sport diving counterpart. It is important, however, for the technical diver to realize that he is carrying a substantial quantity of breathing gas, which contributes to the initial weight of his gear and will be consumed during his dive. Therefore, the diver should properly determine his weighting requirements based upon buoyancy characteristics at the end of his dive, so that he will be able to maintain effective control during any safety or decompression stops. It is also noted that improper weighting (either over-weighting or under-weighting) can result in both over-exertion and increased gas consumption throughout the dive.
+
+## Cutting Devices
+
+trilobyte.jpg
+
+The technical diver should be equipped with a minimum of two cutting devices. These may be any combination of dive knifes, shears, or line cutters. It is important that at least one of these devices be easily accessible to the diver with either hand; this means that the primary cutting device is usually positioned somewhere on the BCD in front of the diver’s torso. The additional (redundant) cutting device, depending upon type, may be strapped to the diver’s leg, stored in a pocket, or otherwise attached to his scuba unit.
+
+The knife has long been the diver’s standard cutting tool, and it will serve quite effectively in many emergency situations such as when a diver needs to cut himself free of an entanglement with kelp or monofilament fishing line. However, a diver might encounter other entanglement hazards that are not as easily cut; these can include electrical wires and cables that dangle around a wreck, the metal leaders on some fishing lines, and the materials used in constructing heavier fishing nets. For dealing with these difficult-to-cut hazards, shears often are more effective than a knife. Some equipment manufacturers offer heavy-duty shears specifically designed for dive use. Some divers alternately opt for less expensive utility scissors (sometimes referred to as paramedic shears); these are often available from dive suCutting Devices 2ppliers, and also can be found in the tool aisle of some discount retail stores. Lineman’s pliers or side-cutters from the local hardware store also may be useful but, because these items normally are not made of stainless steel, they require greater care to minimize rust and corrosion. Some divers routinely add a pocket-size multi-tool (with folding pliers, screwdrivers, etc.) to their kit, and without a doubt it will prove helpful for simple topside repairs; but before counting on such a device for emergency underwater use, the diver must ensure that he can reliably access its various cutting features while wearing dive gloves.
+
+knife.jpg
