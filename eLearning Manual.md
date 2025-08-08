@@ -1,11 +1,11 @@
 - [TDI Intro to Tech](#tdi-intro-to-tech)
   - [Help/FAQ](#helpfaq)
-- [Chapter 1: What is Techincal Diving?](#chapter-1-what-is-techincal-diving)
+- [Chapter 1: What is Technical Diving?](#chapter-1-what-is-technical-diving)
   - [Welcome to the TDI Introduction to Tech course](#welcome-to-the-tdi-introduction-to-tech-course)
   - [Some Basic Terminology](#some-basic-terminology)
   - [Key Contrasts: Technical vs. Sport Diving](#key-contrasts-technical-vs-sport-diving)
   - [A Bit of History](#a-bit-of-history)
-  - [Commonalities in Recreactional Diving](#commonalities-in-recreactional-diving)
+  - [Commonalities in Recreational Diving](#commonalities-in-recreactional-diving)
   - [Personal Considerations](#personal-considerations)
 - [Chapter 2: Technical Diving Equipment](#chapter-2-technical-diving-equipment)
   - [General Equipment Issues](#general-equipment-issues)
@@ -30,7 +30,7 @@
 
 Click <https://www.tdisdi.com/faqs/> link to open resource.
 
-# Chapter 1: What is Techincal Diving?
+# Chapter 1: What is Technical Diving?
 
 - Introduction - Welcome to the TDI Introduction to Tech course.
 - Some Basic Terminology
@@ -327,3 +327,61 @@ In some cases a diver might prefer to have some larger or more frequently used a
 When carrying an unusual abundance of accessories (as may be required for a particular dive), some divers find it useful to use a compact canvas tool bag specifically designed for this purpose This bag may be attached directly to the diver’s rig, or suspended from the rig on a short leash-like line. Similarly, some diver’s may use a tool line alone, with one end attached to their rig and several accessories clipped onto a large brass ring at the other end of this line. In some cases a diver may prefer to not enter or exit the water while carrying all of his equipment. At these times he might use an equipment line, suspended over the side of the boat. He will lower the selected equipment into the water before making his entry, and then retrieve this equipment once he’s in the water. At the end of his dive he will again remove the selected equipment and re-attach it to the line, so that he has a reduced load while climbing the boat’s ladder, and then will haul the additional equipment back on board.
 
 The types of clips used for attaching various accessories to the rig or equipment lines may well deserve some consideration themselves. Sliding bolt clips are appropriately secure, yet easy to operate; most importantly, compared to some other types, they pose little risk of accidentally latching onto other gear or onto some entanglement hazard.
+
+# Chapter 3: Gasses and Gas Management
+
+## The Impact of Pressure
+
+Pressure affects many aspects of diving. For instance every new diver learns, quite quickly, about the need to equalize one’s ears during descent. However, the effects of pressure are more far-reaching. In particular, pressure has a direct and significant impact upon the gas we breathe at depth. In order for a diver to comprehend the various concepts related to gases and gas management, it is first necessary to understand a bit about pressure.
+
+Pressure is the force, or weight, pressing upon a person, an object, or a gas. Here at the surface, a person is exposed to the weight of the overhead atmosphere pressing downward. In the metric system, pressure is measured in bars, while in the imperial system it is measured in atmospheres (abbreviated as atm). For practical purposes, one bar is equal to one atmosphere. Thus, at the surface, the ambient (or surrounding) pressure is 1 bar or 1 atm.
+
+During descent, the diver experiences increasing pressure caused by the added weight of the overhead water now pressing downward. For every 10 metres or 33 feet of depth in seawater, the ambient pressure increases by 1 bar or 1 atm. It’s important to remember that the weight of the water and the weight of the atmosphere both contribute to ambient pressure. The relationship of depth and ambient pressure is illustrated in the accompanying table.
+
+Pressure Table
+
+Next, it is important to understand how ambient pressure affects a gas. When any gas is confined within a flexible container, the pressure of that gas (pressing outward on the inside of the container) will be equal to the ambient pressure (pressing inward on the outside of the container). Any change in ambient pressure will have a direct effect upon the pressure of the gas inside the flexible container. As pressure increases, the confined gas will decrease in volume and, since its molecules then are being pressed closer together, the gas will also increase in density.
+
+Pressure Table
+
+These changes, in volume and density, are directly proportional to the changes in pressure. Most divers will recall a table from their entry-level training, such as the one depicted here, illustrating the important relationship between depth, pressure, volume, and density. This information is directly applicable to diving because the diver's lungs, in effect, are a large flexible container. As such, the gas pressure in the lungs will be equal to the ambient pressure. As a diver descends to depth, the pressure naturally increases inside his lungs; and when the diver returns to the surface, the pressure naturally decreases in his lungs. In addition, as a diver descends, each breath will require a greater quantity of gas to fill the diver's lungs, and the inhaled gas will become increasingly denser at depth.
+
+## Air: The Typical Gas for Divers
+
+By far, air remains the most widely used breathing gas in overall diving activities. Air is comprised of approximately 21% oxygen and 79% nitrogen. Oxygen is a critical ingredient in the body's metabolic process, and thus it is a necessity of life. Nitrogen, on the other hand, is physiologically inert in that it is not used by the body in any manner. Though inert, a certain amount of nitrogen is routinely dissolved into the body's tissues simply because the body is exposed to it with each breath of inhaled air; the actual amount of nitrogen that will be absorbed by the tissues is dependent upon the pressure of the nitrogen.
+
+Each component within any gas mixture accounts for a fraction of the total gas pressure. Air consists of 21% oxygen and 79% nitrogen; thus, oxygen accounts for 21% of the total air pressure, and nitrogen accounts for 79% of the total air pressure. The accompanying table depicts the relationship between depth, total pressure, and the partial pressures of oxygen and nitrogen in air.
+
+Pressure Table
+
+In terms of physiology, the fraction of any gas within a breathing mixture is largely immaterial. What is important, in terms of physiology, is the pressure of each gas. As illustrated in the above table, the fractions of oxygen and nitrogen remain constant in air, yet the pressure of each gas changes according to depth. When the pressure of a gas increases, its physiological impact also increases. For a diver using air within traditional sport diving depths (up to 40 metres or 130 feet), the primary concern is the elevated pressure of nitrogen.
+
+By far, air remains the most widely used breathing gas in overall diving activities. Air is comprised of approximately 21% oxygen and 79% nitrogen. Oxygen is a critical ingredient in the body's metabolic process, and thus it is a necessity of life. Nitrogen, on the other hand, is physiologically inert in that it is not used by the body in any manner. Though inert, a certain amount of nitrogen is routinely dissolved into the body's tissues simply because the body is exposed to it with each breath of inhaled air; the actual amount of nitrogen that will be absorbed by the tissues is dependent upon the pressure of the nitrogen.
+
+Each component within any gas mixture accounts for a fraction of the total gas pressure. Air consists of 21% oxygen and 79% nitrogen; thus, oxygen accounts for 21% of the total air pressure, and nitrogen accounts for 79% of the total air pressure. The accompanying table depicts the relationship between depth, total pressure, and the partial pressures of oxygen and nitrogen in air.
+
+Pressure Table
+
+In terms of physiology, the fraction of any gas within a breathing mixture is largely immaterial. What is important, in terms of physiology, is the pressure of each gas. As illustrated in the above table, the fractions of oxygen and nitrogen remain constant in air, yet the pressure of each gas changes according to depth. When the pressure of a gas increases, its physiological impact also increases. For a diver using air within traditional sport diving depths (up to 40 metres or 130 feet), the primary concern is the elevated pressure of nitrogen.
+
+## Nitrox: An Alternate Breathing Gas
+
+As detailed on the previous pages, a diver absorbs additional nitrogen into his tissues during a dive. On-gassing results from the diver's exposure to nitrogen at elevated pressures. In fact, nitrogen exposure is the limiting factor in determining how long a diver can safely remain underwater at a given depth, and still be able to make a direct ascent to the surface.
+
+Is there a way to effectively reduce a diver's nitrogen exposure? Yes! The answer is enriched air nitrox or, more simply, nitrox.
+
+Like air, nitrox is a breathing gas containing both oxygen and nitrogen; however, the percentages are different. Nitrox contains a higher percentage of oxygen than found in air, and therefore it has proportionately less nitrogen. The sole purpose in adding a higher percentage of oxygen to the mix is to replace some of the nitrogen. The oxygen itself provides no other benefit and, as will be addressed shortly, it actually introduces an additional concern.
+
+Nitrox encompasses a wide range of oxygen-nitrogen mixtures. In order to identify the actual contents of a mixture, the abbreviation EAN is normally used (for enriched air nitrox), followed by a number that designates the percentage of oxygen it contains. Thus, a nitrox mix containing 32% oxygen would be identified as EAN32.
+
+As the reader will recall from the prior discussion, the physiological impact of a gas is determined by its pressure. The accompanying table compares the partial pressures of oxygen and nitrogen in both air and EAN40.
+
+Nitrox Pressure Table
+
+In reviewing this table the reader should observe that while ambient pressure remains constant for a given depth, the partial pressure of each component gas now becomes a variable. As depicted in this table, the partial pressure of nitrogen with EAN40, at30 metres or 99 feet, is 2.40 bar / atm; this is approximately the same as the partial pressure of nitrogen with air, at 20 metres or 66 feet, which is 2.37 bar / atm. In effect, a diver will experience about the same nitrogen exposure with EAN40 at this deeper depth as he would with air at the shallower depth. Therefore, the significantly longer time limit for air at 20 metres or 66 feet would now apply when using EAN40 at 30 metres or 99 feet. This example clearly demonstrates the primary purpose of nitrox, which is to increase the diver's allowable bottom time at a given depth.
+
+Naturally, to take advantage of the longer bottom times a diver must have an adequate supply of nitrox. It is important to note that the additional oxygen in the breathing mixture will have no effect on the rate at which the diver consumes the contents of his cylinder. The rate of breathing is determined not by the amount of oxygen that is inhaled, but rather by the level of carbon dioxide present in the blood.Nitrox Cylinders Carbon dioxide is a by-product of metabolism, and its output is determined by the body's workload. Under the same conditions and with the same level of physical activity, a diver's breathing rate will remain the same, regardless of whether he is breathing air or nitrox.
+
+A diver may well find that the increase in allowable bottom time provided by nitrox now exceeds the limits of his gas supply; the diver is forced to surface not because of an approaching depth-time limit, but because he is running low on breathing gas. Even in this case, nitrox offers an advantage. Since the nitrox diver will have on-gassed less nitrogen during his dive, he will have less nitrogen to off-gas back at the surface. This means that his required surface interval between dives may be significantly reduced, and often he will be able to safely complete a greater number of dives within a given period of time.
+
+While speaking of dive-related calculations it must be recognized that no dive table or personal dive computer can guarantee a risk-free dive in terms of decompression sickness; instead, tables and computers specify a schedule of depth-time limits that work for most of the people, most of the time, under most circumstances. With this fact in mind, there is also another possible use for nitrox. Rather than increasing allowable bottom time or reducing surface intervals, some divers prefer to use nitrox for a physiological advantage. They rationalize that by breathing nitrox while still adhering to the schedules of their air-based tables or air-based computer, they will reduce their overall nitrogen exposure during a dive and thereby lower their risk of decompression sickness.
