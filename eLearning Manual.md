@@ -429,3 +429,13 @@ It is important to understand that the narcotic effect of any gas is dependent u
 By replacing some of the nitrogen in the breathing mixture with helium, the diver will experience less narcosis. Quite simply, the diver will be able to descend to deeper depths while maintaining a clearer head.
 
 Similar to nitrox, the term trimix encompasses a range of varying mixtures. To readily identify the specific contents of a trimix blend, a two-part numeric description is used; the first number identifies the oxygen content of the mix (expressed as a percentage of the total gas), and the second number identifies the helium content. Thus, trimix-21/30 will contain 21% oxygen and 30% helium, with nitrogen making up the balance (49%) of the total breathing gas.
+
+Consider the following table, which compares the partial pressures of each of the component gases in air and trimix-21/30, at varying depths.
+
+Trimix Pressure
+
+In reviewing this table, the reader will observe that the partial pressure of nitrogen in trimix-21/30 at 60 metres or 198 feet is less than it is in air at 40 metres or 132 feet. Accordingly, it may be concluded that the diver will encounter less narcosis with this trimix blend, even at a significantly deeper depth.
+
+The reader also should note that, with this trimix blend, the diver still will quickly approach the maximum oxygen exposure (oxygen partial pressure of 1.6 bar / atm) once he descends much deeper than the cited 60 metres or 198 feet in the above table. This trimix blend contains the same level of oxygen as found in air, and thus shares the same maximum oxygen depth of 66 metres or 218 feet. Thus, the oxygen content in this trimix blend continues to limit his depth.
+
+For deeper depths it is also possible to replace some of the oxygen in the breathing gas with helium. A breathing mixture containing only 18% oxygen will be adequate, even at the surface, to meet the diver’s metabolic needs. Then, as the diver descends, an even lower percentage of oxygen will suffice because of its increasing partial pressure. By decreasing the level of both oxygen and nitrogen in the bottom gas, significant depths can be safely achieved. Of course, whenever using a trimix blend containing less than 18% oxygen, the diver usually will employ a higher content travel gas at intermediate depths during his descent and ascent.
