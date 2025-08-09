@@ -494,7 +494,7 @@ As noted, the calculated gas requirements should include the appropriate reserve
 
 Though effective gas management is critical in technical diving, it must be noted that it can be similarly beneficial to the sport diver as well. Unlike many of the other topics in this course, these techniques can be readily adopted by the reader and applied in personal diving activities without further prerequisite training.
 
-# Chapter 3: Technical Diving Activities
+# Chapter 4: Technical Diving Activities
 
 - Topics Covered in this Chapter:
 - General Procedures
