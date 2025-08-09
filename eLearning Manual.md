@@ -417,3 +417,15 @@ When air is used as the breathing gas, many authorities feel that narcosis may b
 Naturally, in addition to handling narcosis at deeper depths, the diver still needs to manage his nitrogen on-gassing. As the diver descends deeper, his no-decompression (no-stop) time limits will become progressively shorter. For example, the US Navy dive tables specify no-deco limits of 25 minutes at 30 metres or 100 feet, 10 minutes at 40 metres or 130 feet, and only 5 minutes at 45 metres or 150 feet. Therefore, for a deep dive of any reasonable duration, staged decompression becomes a practical necessity.
 
 The TDI Decompression Procedures course addresses the appropriate techniques of staged decompression for dives to a maximum depth of 45 metres or 150 feet; Advanced Adventure Diver or Advanced Open Water Diver is a prerequisite for this program. The TDI Extended Range course then prepares the diver to stay even longer at these depths, and further extends the maximum depth to 55 metres or 180 feet.
+
+## Trimix: The Gas for Deeper Diving
+
+As just discussed, narcosis becomes a significant issue when air is used at deeper depths. Is it possible to counter this effect with something else? Yes, and the answer is trimix.
+
+Trimix is a mixture of oxygen, helium, and nitrogen. Helium is another inert gas. Quite simply, helium is added to the breathing mix in order to replace some of the nitrogen. With a decreased level of nitrogen in the breathing gas, the narcotic effect of nitrogen similarly will be reduced.
+
+It is important to understand that the narcotic effect of any gas is dependent upon its weight. For example, argon, which is sometimes used for dry suit inflation (because of its thermal insulating properties), is a relatively heavy gas; if inadvertently inhaled, argon will produce significant narcosis. Conversely, helium is a very light gas that produces almost no narcotic effect.
+
+By replacing some of the nitrogen in the breathing mixture with helium, the diver will experience less narcosis. Quite simply, the diver will be able to descend to deeper depths while maintaining a clearer head.
+
+Similar to nitrox, the term trimix encompasses a range of varying mixtures. To readily identify the specific contents of a trimix blend, a two-part numeric description is used; the first number identifies the oxygen content of the mix (expressed as a percentage of the total gas), and the second number identifies the helium content. Thus, trimix-21/30 will contain 21% oxygen and 30% helium, with nitrogen making up the balance (49%) of the total breathing gas.
