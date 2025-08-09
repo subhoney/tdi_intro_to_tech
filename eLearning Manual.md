@@ -1,5 +1,41 @@
-- [TDI Intro to Tech](#tdi-intro-to-tech)
-  - [Help/FAQ](#helpfaq)
+<!-- vscode-markdown-toc -->
+
+- 1. [Help/FAQ](#HelpFAQ)
+- 2. [Welcome to the TDI Introduction to Tech course](#WelcometotheTDIIntroductiontoTechcourse)
+- 3. [Some Basic Terminology](#SomeBasicTerminology)
+- 4. [Key Contrasts: Technical vs. Sport Diving](#KeyContrasts:Technicalvs.SportDiving)
+- 5. [A Bit of History](#ABitofHistory)
+- 6. [Commonalities in Recreactional Diving](#CommonalitiesinRecreactionalDiving)
+- 7. [Personal Considerations](#PersonalConsiderations)
+- 8. [General Equipment Issues](#GeneralEquipmentIssues)
+- 9. [Primary Cylinders](#PrimaryCylinders)
+- 10. [Auxiliary Cylinders](#AuxiliaryCylinders)
+- 11. [Regulators](#Regulators)
+- 12. [Buoyancy Compensators](#BuoyancyCompensators)
+- 13. [Instrumentation](#Instrumentation)
+- 14. [Exposure Protection](#ExposureProtection)
+- 15. [Weights](#Weights)
+- 16. [Cutting Devices](#CuttingDevices)
+- 17. [Underwater Slates, Lift Bag and Reel and Surface Signals](#UnderwaterSlatesLiftBagandReelandSurfaceSignals)
+  - 17.1. [Underwater Slates](#UnderwaterSlates)
+  - 17.2. [Lift Bag and Reel](#LiftBagandReel)
+  - 17.3. [Surface Signals](#SurfaceSignals)
+- 18. [Other Useful Accessories](#OtherUsefulAccessories)
+- 19. [Equipment Handling Options](#EquipmentHandlingOptions)
+- 20. [The Impact of Pressure](#TheImpactofPressure)
+- 21. [Air: The Typical Gas for Divers](#Air:TheTypicalGasforDivers)
+- 22. [Nitrox: An Alternate Breathing Gas](#Nitrox:AnAlternateBreathingGas)
+- 23. [Air as a Deep Diving Gas](#AirasaDeepDivingGas)
+- 24. [Trimix: The Gas for Deeper Diving](#Trimix:TheGasforDeeperDiving)
+- 25. [Effective Gas Management](#EffectiveGasManagement)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->- [TDI Intro to Tech](#tdi-intro-to-tech)
+
+- [Help/FAQ](#helpfaq)
 - [Chapter 1: What is Technical Diving?](#chapter-1-what-is-technical-diving)
   - [Welcome to the TDI Introduction to Tech course](#welcome-to-the-tdi-introduction-to-tech-course)
   - [Some Basic Terminology](#some-basic-terminology)
@@ -26,7 +62,7 @@
 
 # TDI Intro to Tech
 
-## Help/FAQ
+## 1. <a name='HelpFAQ'></a>Help/FAQ
 
 Click <https://www.tdisdi.com/faqs/> link to open resource.
 
@@ -40,7 +76,7 @@ Click <https://www.tdisdi.com/faqs/> link to open resource.
 - Personal Consideration
 - Review Questions
 
-## Welcome to the TDI Introduction to Tech course
+## 2. <a name='WelcometotheTDIIntroductiontoTechcourse'></a>Welcome to the TDI Introduction to Tech course
 
 TDI is Technical Diving International, the largest and most widely recognized technical diver training organization worldwide. We are committed to offering the highest quality programs, supported by the latest materials, with the most up to date practical information and innovative techniques. Our instructors are held to the highest standards to ensure quality training in all TDI programs conducted worldwide.
 
@@ -52,13 +88,13 @@ We trust that you will find this program both informative and beneficial.
 
 _Safe Diving!_
 
-## Some Basic Terminology
+## 3. <a name='SomeBasicTerminology'></a>Some Basic Terminology
 
 As recognized by most authorities, both inside and outside the dive industry, there are three distinct categories of diving: recreational, commercial, and scientific. Recreational diving is a hobby-type activity in which participation is based upon personal enjoyment, while both commercial and scientific diving conversely are vocational pursuits. Naturally, each category of diving is subject to its own protocols and participant qualifications.
 
 Even within the dive industry, some have misconstrued the term recreational diving as applying only to a specific and limited range of sport diving activities, and have mistakenly labeled technical diving as something other than recreational diving. In fact, technical diving is an advanced form of recreational diving. Thus, throughout this text the term sport diving will be used to identify the more traditional aspects of recreational diving, and thereby segregate such activities from the advanced practices and procedures of technical diving.
 
-## Key Contrasts: Technical vs. Sport Diving
+## 4. <a name='KeyContrasts:Technicalvs.SportDiving'></a>Key Contrasts: Technical vs. Sport Diving
 
 As will be readily apparent to most readers, sport diving represents the majority of overall recreational diving activities. Sport diving is widely enjoyed by many participants, often in warm and exotic locations, typically using a relatively simple equipment kit and often requiring only basic entry-level training. Yes, there are advanced sport dives that require some additional training and perhaps a little extra equipment, but for many participants, these advanced activities represent the exception rather than the norm in their diving routine. Most new divers consider their entry level training to have been quite comprehensive, but in actuality, this initial curriculum is streamlined to present only information that is deemed essential; and essential is often defined in terms of the diving activities and environments to which the average sport diver will most likely be exposed.
 
@@ -83,7 +119,7 @@ Rightly or wrongly, advanced training sometimes might be viewed as optional for 
 
 Technical diving places a heavy emphasis on self-sufficiency, yet at the same time mandates a well-organized and mission-oriented team approach. Close coordination is required among the members of a dive team in terms of gas matching, profile matching, and experience matching. Depending upon the requirements for a particular dive, the members of the team also might extend beyond the primary divers to include additional in-water safety divers and surface support personnel.
 
-## A Bit of History
+## 5. <a name='ABitofHistory'></a>A Bit of History
 
 Modern scuba (an acronym for self-contained underwater breathing apparatus) was invented by Emile Gagnan and Jacques-Yves Cousteau in 1943. Some earlier systems certainly existed, but left much to be desired. As a French naval officer, Cousteau himself had experienced the dire shortcomings of more primitive underwater equipment. Following deployment by Allied forces in the latter days of World War II, scuba came home to the civilian world with some of the returning veterans.
 
@@ -103,7 +139,7 @@ In the meantime, those early specialized organizations continued to expand into 
 
 Slowly but surely technical diving has gained wider acceptance, and it seems that tech is now the "hot" dive industry buzzword. At recent trade shows (where even nitrox was once unspoken), almost every major manufacturer is promoting some new item of technical gear. Perhaps the most significant indication of the acceptance of tech is the fact that some of the old sport-only training agencies now are starting to dabble with their own version of a technical curriculum.
 
-## Commonalities in Recreactional Diving
+## 6. <a name='CommonalitiesinRecreactionalDiving'></a>Commonalities in Recreactional Diving
 
 First and foremost, diving is diving, whether it is sport or technical in nature. The same principles of physics and physiology apply in each case. Much of the equipment is the same, or at least similar in function and use. Every recreational diver appropriately begins his or her training with the Open Water Diver course. Technical training is an extension of sport diving, building upon that foundation provided by each diver’s prior training and experience.
 
@@ -113,7 +149,7 @@ Some sport diver skills are directly transferable to technical diving. In order 
 
 Both sport and technical diving have a progressive curriculum of continuing education, yet each also offers a variety of programs that allow individual divers to tailor their training to match their personal interests. Looking at it another way, sport and technical are simply catch-phrases that help to characterize and differentiate general types of underwater activities within the broader category of recreational diving.
 
-## Personal Considerations
+## 7. <a name='PersonalConsiderations'></a>Personal Considerations
 
 Is technical diving for you? That’s a personal and very individual decision because, quite candidly, it is not right for everyone. Your TDI instructor can and will assist you in evaluating whether you’re ready, based upon your past training and experience. In fact, some instructors routinely conduct a counseling session with each student prior to enrolling in a technical course, to address these specific issues. Assuming that prerequisites have been fulfilled, the ultimate question then becomes whether technical diving is something that you really want to try.
 
@@ -144,7 +180,7 @@ Clearly, the advanced knowledge and skills gained through technical training wil
 - Equipment Handling
 - Review Questions
 
-## General Equipment Issues
+## 8. <a name='GeneralEquipmentIssues'></a>General Equipment Issues
 
 Equipment configuration may be one of the most obvious characteristics that visually distinguish the technical diver from the traditional sport diver.
 
@@ -154,7 +190,7 @@ In addition to the basic set-up, the standard equipment unit for technical divin
 
 In terms of equipment selection and configuration, the seasoned technical diver is governed by two key principles. First, he ensures that he has the proper equipment for a particular dive, including redundancy of all critical equipment. Second, he seeks to streamline his overall equipment configuration through careful arrangement of required components, and also by eliminating any accessory items that are unnecessary for a particular dive.
 
-## Primary Cylinders
+## 9. <a name='PrimaryCylinders'></a>Primary Cylinders
 
 Air is everything! In selecting equipment for a planned dive, the technical diver’s first concern will be his supply of breathing gas, based upon the requirements for a particular dive, as well as a suitable reserve for contingencies. Technical diving may involve extended bottom times, perhaps at relatively deep depths, with additional time spent underwater during mandatory decompression stops. Sometimes a diver will be able to meet his gas supply requirements with a single high-capacity cylinder, though more frequently he will opt for double cylinders. In addition to volume, double cylinders offer an advantage to the technical diver in terms of redundancy.
 
@@ -182,7 +218,7 @@ Cylinder valves are often available with a choice of either DIN or yoke fittings
 
 As will be addressed later in this course, technical divers may employ breathing gases other than air. Whenever an alternate gas is used, the primary cylinders need to be appropriately prepared and labeled, and a completed contents tag should be affixed to the cylinders.
 
-## Auxiliary Cylinders
+## 10. <a name='AuxiliaryCylinders'></a>Auxiliary Cylinders
 
 While the sport diver typically uses only a single breathing mixture during a dive, the technical diver has the option of employing multiple gases for maximum benefit throughout his dive.
 
@@ -196,7 +232,7 @@ The high-content deco gas, if inadvertently used at a deeper depth, will pose a 
 
 In addition to the deco gas, some technical divers also elect to carry a travel gas in an additional auxiliary cylinder. This travel gas may be used during the diver’s descent prior to switching over to the bottom gas in his primary cylinders, and/or during the ascent prior to switching over to his deco gas. A travel cylinder is rigged in the same manner as the deco cylinder; some divers prefer to wear the deco and travel cylinders on opposite sides of their body, while others prefer to carry them both on the same side and positioned one below the other.
 
-## Regulators
+## 11. <a name='Regulators'></a>Regulators
 
 Technical diving often places increased physical demands upon the diver due to extended depth (and a corresponding increased density of the breathing gas), the additional drag caused by the diver’s expanded gear configuration, and other environmental factors. Middle-of-the-line regulators, popular among sport divers, generally are not suitable for technical applications because of their greater breathing resistance at deeper depths (which by itself will increase a diver’s overall workload), and the possibility that this type of regulator simply may not deliver a sufficient quantity of breathing gas to meet the increased physical demands. Naturally, a technical diver should seek only high-performance regulators for use on his primary cylinders – this includes both high-performance first stages and high-performance second stages, because each component in the regulator system will have a direct impact upon overall performance.
 
@@ -220,7 +256,7 @@ Entanglement is a hazard encountered in both sport and technical diving. Yet in 
 
 When a cylinder contains nitrox, the attached regulator (and all accessories connected to that regular) must be suitable for such nitrox use; in particular, any items attached to a deco cylinder will generally require special preparation for oxygen service.
 
-## Buoyancy Compensators
+## 12. <a name='BuoyancyCompensators'></a>Buoyancy Compensators
 
 In sport diving, to streamline his equipment a diver occasionally adopts the system where the alternate second stage is integrated into his BC inflator mechanism. Such a configuration is generally unsuitable for technical applications - after passing his own primary regulator, the dangling inflator-integrated alternate second stage may be difficult for the donor to locate, and it too easily can become entangled with other gear or be trapped beneath his deco cylinder.
 
@@ -230,7 +266,7 @@ Entanglement is a hazard encountered in both sport and technical diving. Yet in 
 
 When a cylinder contains nitrox, the attached regulator (and all accessories connected to that regular) must be suitable for such nitrox use; in particular, any items attached to a deco cylinder will generally require special preparation for oxygen service.
 
-## Instrumentation
+## 13. <a name='Instrumentation'></a>Instrumentation
 
 With an eye towards redundancy, the technical diver should be equipped with a minimum of two depth measuring devices and two timing devices. This may be accomplished through any combination of mechanical or electronic instruments such as depth gauges, dive watches and bottom timers, and/or personal dive computers.
 
@@ -248,7 +284,7 @@ When a cylinder contains nitrox, the attached SPG (or air-integrated dive comput
 
 Because of the number of required instruments, a diver typically will carry at least some of his instruments in a console secured to his rig. Other instruments normally will be worn on the wrist. For a deco or travel cylinder, the SPG will normally be bungeed or otherwise secured to the cylinder itself.
 
-## Exposure Protection
+## 14. <a name='ExposureProtection'></a>Exposure Protection
 
 Appropriate exposure protection is a concern in all types of diving. This concern is amplified in some types of technical diving where the diver will experience extended time at depth, plus additional time coupled with limited physical activity during mandatory deco stops; therefore, decompression diving usually requires an increased level of exposure protection (as compared to no-stop sport diving in the same environment). Certainly, a heavier-weight wetsuit will work well in some situations, but often the technical diver will opt for a dry suit, even in relatively warm water.
 
@@ -260,13 +296,13 @@ To further enhance the insulating properties of his dry suit in cold water, a di
 
 Editor's note: _Anoxia_ is the total absense of oxygen; compare with _hypoxia_, where oxygen is present in breathing gas, but not in enough of a quantity to support metabolization. Breathing from an argon cylinder will cause anoxia, while breating a 12% O2 cylinder (at the surface) will cause hypoxia.
 
-## Weights
+## 15. <a name='Weights'></a>Weights
 
 weights.jpg
 
 The technical diver will usually require some sort of weight system. This may be in the form of a weight belt, a weight harness, or weight pockets integrated into the BCD, and may include any combination of these systems. Because of the added weight of his gear configuration, the technical diver may require far less lead in his weight system than his sport diving counterpart. It is important, however, for the technical diver to realize that he is carrying a substantial quantity of breathing gas, which contributes to the initial weight of his gear and will be consumed during his dive. Therefore, the diver should properly determine his weighting requirements based upon buoyancy characteristics at the end of his dive, so that he will be able to maintain effective control during any safety or decompression stops. It is also noted that improper weighting (either over-weighting or under-weighting) can result in both over-exertion and increased gas consumption throughout the dive.
 
-## Cutting Devices
+## 16. <a name='CuttingDevices'></a>Cutting Devices
 
 trilobyte.jpg
 
@@ -276,9 +312,9 @@ The knife has long been the diver’s standard cutting tool, and it will serve q
 
 knife.jpg
 
-## Underwater Slates, Lift Bag and Reel and Surface Signals
+## 17. <a name='UnderwaterSlatesLiftBagandReelandSurfaceSignals'></a>Underwater Slates, Lift Bag and Reel and Surface Signals
 
-### Underwater Slates
+### 17.1. <a name='UnderwaterSlates'></a>Underwater Slates
 
 All divers have routine need for a slate. It is most frequently used in underwater communication between dive buddies. It also is essential for making notes and drawing maps of underwater sites.
 
@@ -288,7 +324,7 @@ In addition, a separate slate carried in a pocket or worn on the wrist is a crit
 
 Editor's note: The GUE metholdoly for underwater communication is wetNotes, and I agree with this over slates. They are carried in the right drysuit thigh pocket, bungeed in as normal.
 
-### Lift Bag and Reel
+### 17.2. <a name='LiftBagandReel'></a>Lift Bag and Reel
 
 The reader might immediately recognize the traditional purposes for these two items – the lift bag can be used to recover heavy objects off the bottom, and the reel can be used for navigation in situations where limited visibility is a factor.
 
@@ -296,13 +332,13 @@ These items serve additional roles in technical diving. The lift bag may be empl
 
 Editor's note: the eLearning manual includes an embedded link to a 1min [video](https://www.youtube.com/watch?v=gRke6Nc5ODk) of the deployment of an SMB/DAM.
 
-### Surface Signals
+### 17.3. <a name='SurfaceSignals'></a>Surface Signals
 
 Depending upon location and circumstances, at a minimum each diver should be equipped with both an audible and a visual surface signaling device. A simple whistle has long been the standard audible signal. For greater effectiveness, the diver might also consider one of the air-powered horn-like devices that are attached in-line on the BCD inflator hose. A brightly colored inflatable tube, sometimes referred to as a safety sausage, makes an effective visual device that is especially advantageous in rough seas. The diver also might consider a signaling mirror, or the signal flares specially intended for divers.
 
 Surrface Signals.jpg
 
-## Other Useful Accessories
+## 18. <a name='OtherUsefulAccessories'></a>Other Useful Accessories
 
 A lost or damaged dive mask may be a mere inconvenience in sport diving, but it can be a far more significant and problematic issue in technical diving. Without a mask, the diver likely will be unable to accurately read his instrumentation, and may be equally unable to decipher those required deco obligations that he so carefully recorded ahead of time on his slate. Therefore, many technical divers elect to carry a spare mask tucked away in a pocket of their BCD or dry suit.
 
@@ -318,7 +354,7 @@ The strobe is another type of light useful for the technical diver. It may be us
 
 A type of reel popular among some open ocean wreck divers is a Jersey up-line. It is basically comprised of a steel bar wrapped with heavy line (rope) sufficient in length to reach the surface from the diver’s maximum depth. It is an emergency ascent device, useful in strong currents where the diver is unable to make his ascent via the boat’s anchor line. In such a case, because of the current the diver would likely drift a significant distance away from the wreck (and away from his dive boat) by the time that he completes a free ascent and his mandatory deco stops. To use the Jersey up-line, the diver ties it off to the wreck and reels himself out during his ascent, so that he remains attached to the wreck and does not drift away. Once back at the surface, the diver simply cuts-away and discards the line. The ecologically-minded diver prefers to use a bio-degradable line, but this will obviously require replacement of his unused line on a regular basis. The Jersey up-line is fairly large and a bit cumbersome, so it is often attached towards the rear of the diver’s harness, or perhaps attached to his cylinders.
 
-## Equipment Handling Options
+## 19. <a name='EquipmentHandlingOptions'></a>Equipment Handling Options
 
 To streamline their configuration as much as possible, some divers prefer stashing less frequently used accessories throughout the pockets of their BCD and dry suit. This always should be done with some sense of organization and consistency, so that any particular item can be readily located when needed. At the same time the actual number of items in any pocket should be limited in order to avoid confusion and help prevent the accidental loss of other items when any one item is removed.
 
@@ -330,7 +366,7 @@ The types of clips used for attaching various accessories to the rig or equipmen
 
 # Chapter 3: Gasses and Gas Management
 
-## The Impact of Pressure
+## 20. <a name='TheImpactofPressure'></a>The Impact of Pressure
 
 Pressure affects many aspects of diving. For instance every new diver learns, quite quickly, about the need to equalize one’s ears during descent. However, the effects of pressure are more far-reaching. In particular, pressure has a direct and significant impact upon the gas we breathe at depth. In order for a diver to comprehend the various concepts related to gases and gas management, it is first necessary to understand a bit about pressure.
 
@@ -346,7 +382,7 @@ Pressure Table
 
 These changes, in volume and density, are directly proportional to the changes in pressure. Most divers will recall a table from their entry-level training, such as the one depicted here, illustrating the important relationship between depth, pressure, volume, and density. This information is directly applicable to diving because the diver's lungs, in effect, are a large flexible container. As such, the gas pressure in the lungs will be equal to the ambient pressure. As a diver descends to depth, the pressure naturally increases inside his lungs; and when the diver returns to the surface, the pressure naturally decreases in his lungs. In addition, as a diver descends, each breath will require a greater quantity of gas to fill the diver's lungs, and the inhaled gas will become increasingly denser at depth.
 
-## Air: The Typical Gas for Divers
+## 21. <a name='Air:TheTypicalGasforDivers'></a>Air: The Typical Gas for Divers
 
 By far, air remains the most widely used breathing gas in overall diving activities. Air is comprised of approximately 21% oxygen and 79% nitrogen. Oxygen is a critical ingredient in the body's metabolic process, and thus it is a necessity of life. Nitrogen, on the other hand, is physiologically inert in that it is not used by the body in any manner. Though inert, a certain amount of nitrogen is routinely dissolved into the body's tissues simply because the body is exposed to it with each breath of inhaled air; the actual amount of nitrogen that will be absorbed by the tissues is dependent upon the pressure of the nitrogen.
 
@@ -364,7 +400,7 @@ Pressure Table
 
 In terms of physiology, the fraction of any gas within a breathing mixture is largely immaterial. What is important, in terms of physiology, is the pressure of each gas. As illustrated in the above table, the fractions of oxygen and nitrogen remain constant in air, yet the pressure of each gas changes according to depth. When the pressure of a gas increases, its physiological impact also increases. For a diver using air within traditional sport diving depths (up to 40 metres or 130 feet), the primary concern is the elevated pressure of nitrogen.
 
-## Nitrox: An Alternate Breathing Gas
+## 22. <a name='Nitrox:AnAlternateBreathingGas'></a>Nitrox: An Alternate Breathing Gas
 
 As detailed on the previous pages, a diver absorbs additional nitrogen into his tissues during a dive. On-gassing results from the diver's exposure to nitrogen at elevated pressures. In fact, nitrogen exposure is the limiting factor in determining how long a diver can safely remain underwater at a given depth, and still be able to make a direct ascent to the surface.
 
@@ -404,7 +440,7 @@ O2 Tracking TableThough other methods exist, the most common method for creating
 
 When it comes to cleaning and preparation of regulators for nitrox use, it really depends upon the manufacturer's specifications and the chosen mix. Often the Forty Percent Rule applies if a regulator will be used with nitrox mixes of EAN40 or less. Generally, it can be used right out of the box, as delivered by the manufacturer; however, for mixtures beyond EAN40, the typical regulator must be specially cleaned and prepared by a qualified service technician prior to such use.
 
-## Air as a Deep Diving Gas
+## 23. <a name='AirasaDeepDivingGas'></a>Air as a Deep Diving Gas
 
 Nitrox offers some potentially significant benefits for the diver when used within traditional sport diving depths. However, as demonstrated above, nitrox is not for deeper diving. The elevated partial pressure of oxygen at depth, associated with the oxygen-enriched nature of this breathing gas, makes nitrox unsuitable for this purpose.
 
@@ -418,7 +454,7 @@ Naturally, in addition to handling narcosis at deeper depths, the diver still ne
 
 The TDI Decompression Procedures course addresses the appropriate techniques of staged decompression for dives to a maximum depth of 45 metres or 150 feet; Advanced Adventure Diver or Advanced Open Water Diver is a prerequisite for this program. The TDI Extended Range course then prepares the diver to stay even longer at these depths, and further extends the maximum depth to 55 metres or 180 feet.
 
-## Trimix: The Gas for Deeper Diving
+## 24. <a name='Trimix:TheGasforDeeperDiving'></a>Trimix: The Gas for Deeper Diving
 
 As just discussed, narcosis becomes a significant issue when air is used at deeper depths. Is it possible to counter this effect with something else? Yes, and the answer is trimix.
 
@@ -448,7 +484,7 @@ The TDI Helitrox course addresses the use of breathing mixtures containing at le
 
 The TDI Trimix course addresses the use of breathing mixtures containing 18% to 21% oxygen to a maximum depth of 60 metres or 200 feet. Both Decompression Procedures/Helitrox and Advanced Nitrox are prerequisites for this program. The TDI Advanced Trimix course then extends the diver's qualifications to hypoxic mixtures (containing less than 18% oxygen) to a maximum depth of 100 metres or 330 feet.
 
-## Effective Gas Management
+## 25. <a name='EffectiveGasManagement'></a>Effective Gas Management
 
 In technical diving, running out of gas is simply not an option! Once committed to a decompression profile, or after venturing deep inside a wreck or cave, the technical diver no longer has the choice of making an immediate and direct ascent to the surface. Thus, with safety clearly in mind, technical divers adhere to a fundamental principle of gas management known as the Rule of Thirds. This principle dictates that no more than one-third of the diver's available gas supply is used for entering an overhead environment or otherwise venturing away from a designated starting point, another one-third is dedicated to the return trip, and the remaining one-third is held in reserve for contingencies.
 
@@ -457,3 +493,41 @@ It is important to note, however, that effective gas management actually begins 
 When someone asks a sport diver how long his gas supply will last at a given depth, the response all too frequently may be a blank stare. True, an experienced diver might be able to consult his log book to see how much air he had consumed on any prior similar dives, and from there he might be able to provide a rough estimate. But what if some detail is altered for the proposed dive, such as depth, cylinder volume, or overall dive conditions; would even the experienced sport diver be able to extrapolate an accurate estimate?
 
 Rather than relying merely on rough estimates, the technical diver should be able to quickly and more accurately calculate this information. His ability to do so is based upon an understanding of his own Surface Air Consumption rate (abbreviated as SAC). The SAC is the amount of gas, measured in litres or cubic feet that he will consume per minute at the surface. Using his SAC, the technical diver will be able to readily calculate the volume of gas required for any given depth over any given period of time. Knowing one's own SAC is a critical ingredient of effective gas management.
+
+The SAC determination begins with some baseline information obtained through a carefully conducted exercise. At the beginning of this exercise, the diver records the current reading displayed on his SPG; a digital SPG (such as the type incorporated in an air-integrated dive computer) usually will provide a more precise figure, though an analog model also may be used. The diver then swims at an average pace (consistent with his normal activity level during a typical dive), and at a constant depth, while carefully recording the elapsed time. This swim should last at least five to ten minutes, though a longer duration will likely provide more accurate data. At the end of the swim, the diver records the new reading on his SPG. He then will have the details for how much air he consumed, in terms of bars or psi (pounds per square inch), at this specific depth and over this measured period of time. To determine his SAC the diver also will need to know the rated working pressure of the cylinder used in this exercise, as well as the actual capacity of this cylinder (in litres or cubic feet) when it is filled to its working pressure. The diver then needs only to insert these figures into the following mathematical formula to calculate his SAC.
+
+Metric:
+SAC = (barUsed/workingPressure)(cylinderCapacity)/(depth/10+1)(minutes)
+
+Imperial:
+SAC = (pSIused/workingPressure)(cylinderCapacity)/(depth/33+1)(minutes)
+
+Once the SAC is known, it is a far simpler matter to calculate the volume of gas required for any proposed dive. As the reader will recall from the introductory discussion in this chapter, an increase in pressure causes a proportional decrease in the volume of a gas. Due to this decreased volume at depth, the diver will draw proportionately more gas from his cylinder with each breath in order to fill his lungs. Thus, to calculate the volume of gas required for a particular dive, the diver merely needs to multiply his SAC by the ambient pressure at the planned depth, then again multiply that figure by the planned time at this depth. This mathematical formula is depicted below.
+
+Volume = (SAC)(Pressure)(Time)
+
+As noted, the above formula depends upon ambient pressure rather than depth. In order to convert depth to pressure, just remember that 1 bar / atm equals 10 metres or 33 feet of depth, and also remember that 1 bar / atm must be added for the weight of the overhead atmosphere. This depth-to-pressure conversion is illustrated in the following calculations.
+
+Metric:
+Pressure = (Depth/10)+1
+
+Imperial:
+Pressure = (Depth/33)+1
+
+(Imperial will be slightly imprecise. Should probably be like 33.31 - Ed.)
+
+In addition to determining his normal working SAC, the technical diver will want to know his resting SAC. This resting SAC will be applicable to his staged deco stops. He will determine this rate in a similar manner, but rather than swimming, he will use a line for reference and simply hover in place for the duration of the exercise.
+
+The technical diver also will do well to calculate his SAC under exertion, to account for situations that require an increased activity level, such as dealing with a heavy current.
+
+It is important to note that a number of variable factors may impact a diver's SAC. For example, equipment configuration can have a significant effect. Compared to a warm-water sport diver, the technical diver, with double cylinders and a dry suit, will encounter far greater drag while swimming. Changes in physical fitness over time, as well as a diver's recent and cumulative diving experience, may similarly influence his SAC. Thus, the SAC will vary with the circumstances, and should be recalculated accordingly.
+
+While effective gas management begins with the calculation of gas requirements and adherence to the Rule of Thirds, it certainly doesn't end there. As a further step in gas management, the conscientious technical diver will break down his overall planned dive into a series of smaller segments, with a portion of his gas supply allotted to each segment. In effect, he'll define a progression of way-points during his dive; he will then identify how much gas he plans to use up to each way-point, and how much gas he should have remaining at each way-point. These details then will be transferred to his slate, and carried with him underwater. Periodically throughout the dive, he'll reference this information, to ensure that his actual gas consumption remains in line with the planned parameters. In this manner he will be able to detect any potential problem early in the dive and alter his dive accordingly, rather than discovering an unexpected shortage of gas after it's too late.
+
+For the sake of simplicity, the above discussion has focused upon the diver using a single gas throughout his dive. In fact, gas selection is an important ingredient in the planning process. The technical diver often will opt for multiple gas mixtures on a single dive, with different mixtures being matched to appropriate segments of that dive. The calculations, outlined above, will then encompass each of the diver's chosen gases.
+
+As noted, the calculated gas requirements should include the appropriate reserve for contingencies. The diver must ensure that he has sufficient gas, in case he inadvertently exceeds his planned depth or time and incurs a longer deco obligation. When planning to use a deco mix, he also should consider the additional volume of bottom gas that would be required to complete all deco stops in the event that his deco gas is lost.
+
+Though effective gas management is critical in technical diving, it must be noted that it can be similarly beneficial to the sport diver as well. Unlike many of the other topics in this course, these techniques can be readily adopted by the reader and applied in personal diving activities without further prerequisite training.
+
+# Chapter 3: Technical Diving Activities
