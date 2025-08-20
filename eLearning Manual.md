@@ -41,6 +41,9 @@
 - [Chapter 5: Prerequisite Dive skills](#chapter-5-prerequisite-dive-skills)
   - [Topics Covered in this Chapter](#topics-covered-in-this-chapter)
   - [Chapter 5 Content](#chapter-5-content)
+- [Chapter 6: What's Next?](#chapter-6-whats-next)
+  - [Topics Covered in this Chapter](#topics-covered-in-this-chapter)
+  - [Chapter 6 Content](#chapter-6-content)
 
 <!-- /TOC -->
 
@@ -804,3 +807,7 @@ Similarly, it is now time for the reader to reflect on his own abilities as a di
 - Additional Course Prerequisites
 
 ## Chapter 6 Content
+
+As noted in the introduction of this course, this course is not intended by itself to make you a full-fledged technical diver. Hopefully it has provided you with some useful information, so that you can better determine your own diving interests and also identify the appropriate training to get you there. You have gained a broad overview of technical diving. Now it is up to you to decide in which direction you will proceed, and how far you will go. Following is a brief review of the other programs previously referenced in this manual that are currently available through TDI and its affiliate SDI.
+
+[Click here for the TDI Course Flowchart](https://www.tdisdi.com/tdi/get-certified/?lang=en_us)
