@@ -961,3 +961,28 @@ In the Dive Mode, the personal dive computer monitors and displays the diver's c
 In the Logbook Mode, the personal dive computer allows the diver to review the recorded details of his past dives. In basic models, this information may be limited to dive date and time, maximum depth, and elapsed dive time. Some provide additional dive details directly on the unit's built-in display, while many of the newer models also allow an even more extensive download of data to a laptop or desktop computer.
 
 Important Note: In order for a personal dive computer to effectively monitor its user's diving activities and accurately perform its dive-related calculations, it must accompany the diver on each and every dive.
+
+## Almost There!
+
+You have almost completed the TDI online academic program. Just a few more steps and you will be finished and ready to complete your training with your instructor.
+
+SDI/TDI/ERDI offers many different paths for divers and the dive professional alike. Is sport diving leadership or public safety diving calling to you? There is nothing holding you back. You will have the opportunity to discuss your options in more detail when you meet with your Instructor to complete your program.
+
+Please remember that you will need copies of the following documents to submit along with the course completion form that will be sent to you via email once you have satisfactorily completed the final exam. You will submit these forms and the course completion form to your Instructor.
+
+Proof of appropriate diver and/or TDI certification
+You may also be required to pay an additional fee for the practical/skill development portion of your course.
+Your Instructor will also have you complete an additional medical statement, and may at his or her discretion have you complete an additional written and/or oral examination.
+
+On the following exam, you may be asked questions pertaining to the US Navy Dive Tables. If you need to download the US Navy Dive Tables, [please click here](https://www.tdisdi.com/wp-content/uploads/files/eLearning/eLearning_tables/navy/air_deco_table.pdf?lang=en_us]).
+
+(Note: Embedding the image of the Navy Dive Tables here too. -Ed.)
+
+<iframe
+  src="/pdf/air_deco_table.pdf"
+  width="100%"
+  height="600px"
+  style="border: none;">
+</iframe>
+
+Please direct any questions regarding the program to your instructor, and good luck on your final exam!
