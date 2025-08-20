@@ -59,6 +59,7 @@
 - [Chapter 7: Basic Dive Planning with the US Navy Dive Tables](#chapter-7-basic-dive-planning-with-the-us-navy-dive-tables)
   - [Topics Included in this Chapter](#topics-included-in-this-chapter)
   - [General Rules](#general-rules)
+  - [Instructions for Use](#instructions-for-use)
 
 <!-- /TOC -->
 
@@ -898,3 +899,37 @@ The following rules apply to all dives planned with the US Navy Dive Tables:
 - An optional safety stop of 3 to 5 minutes at 3 to 6 metres or 10 to 20 feet may be included during the ascent; this stop is not included in the diver's bottom time.
 
 ![Navy Dive Tables](/img/air_deco_table_side1.png)
+
+## Instructions for Use
+
+- Starting at the top left of the tables, the first column identifies depth in feet, and the next column (adjacent to depth) specifies the no-decompression limit (maximum allowable time, in minutes) at each depth.
+- For example, the no-decompression limit for 100 feet or 30 metres is 25 minutes.
+
+![Example 1](/img/19_8_1a_v0621.jpg)
+
+- To determine the ending pressure group after a dive, first identify the depth, follow that row across towards the right, and find the exact or next greater bottom time for this dive; the ending pressure group is then specified at the bottom (Note: top? -Ed.) of the column, under the time.
+- For example, the ending pressure group after a dive to 100 feet or 30 metres for 20 minutes is G.
+
+![Example 2](/img/19_9_1a_V0621-1.jpg)
+
+- To determine the new pressure group after a surface interval, start with the ending pressure group from the prior dive, follow that row across to the right, and find the surface interval time (in hours and minutes) between dives; again the new pressure group is then specified at the bottom of the column, under the surface interval time.
+- For example, with an ending pressure group of G from the prior dive, after a two hour surface interval the diver's new pressure group will be E.
+
+![Example 3](/img/19_10_1a_v0621.jpg)
+
+- To identify the residual nitrogen time, start with the new pressure group (after the surface interval), and follow this column down to the point at which it intersects with the depth of the next dive; the residual nitrogen time is specified in this column (in minutes).
+- For example, a diver in pressure group E at the end of his surface interval and planning his next dive to 70 feet or 21 metres will have 25 minutes of residual nitrogen time.
+- In planning a repetitive dive, the residual nitrogen time must be subtracted from the no-decompression limit for the next dive, to calculate the adjusted no-decompression limit for that next dive.
+- For example, a diver planning a repetitive dive to 70 feet or 21 metres with 25 minutes of residual nitrogen time will have an adjusted no-decompression limit of 23 minutes (48 - 25 = 23 minutes).
+- In planning a repetitive dive, the residual nitrogen time also must be added to the actual bottom time for the next dive, to calculate the ending pressure group for that next dive.
+- For example, a diver planning a repetitive dive to 70 feet or 21 metres for 15 minutes with 25 minutes of residual nitrogen time will have a total bottom time of 40 minutes (15 + 25 = 40 minutes) and his ending pressure group will be I.
+
+(Note: Residual nitrogen time is the amount of time a diver must wait, after a dive, before a subsequent dive without exceeding the no-decompression limits. It represents the remaining dissolved nitrogen in the body after a dive, which is gradually released during the surface interval. This time is crucial for safe repetitive dives, as residual nitrogen affects the pressure group and no-decompression limit of subsequent dives. -Ed.)
+
+![Example 4](/img/19_11_1a_v0621.jpg)
+
+## Dive Planning Worksheet
+
+To keep track of things during the planning process, it is helpful for the diver to organize his calculations in a standardized format with all critical information entered around a graphic depiction of his dives. The preceding examples for the US Navy dive tables defined a series of two dives: first dive to 100 feet / 30 metres for 20 minutes actual bottom time; 2:00 surface interval; second dive to 70 feet / 21 metres for 15 minutes actual bottom time. Using the same tables, it was determined that the ending pressure group after the first dive was G; after the surface interval the new pressure group was E; the diver then had 25 minutes of residual nitrogen time at the beginning of the second dive, resulting in 40 minutes total bottom time for that second dive; and after the second dive, the ending pressure group was I. This information effectively is summarized in the following dive planning worksheets.
+
+![Dive Planning Worksheet](/img/ITT_7_7_1.jpg)
