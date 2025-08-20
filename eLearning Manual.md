@@ -44,6 +44,12 @@
 - [Chapter 6: What's Next?](#chapter-6-whats-next)
   - [Topics Covered in this Chapter](#topics-covered-in-this-chapter)
   - [Chapter 6 Content](#chapter-6-content)
+  - [Nitrox](#nitrox)
+  - [Advanced Nitrox](#advanced-nitrox)
+  - [Decompression Procedures](#decompression-procedures)
+  - [Helitrox](#helitrox)
+  - [Extended Range](#extended-range)
+  - [Trimix](#trimix)
 
 <!-- /TOC -->
 
@@ -811,3 +817,51 @@ Similarly, it is now time for the reader to reflect on his own abilities as a di
 As noted in the introduction of this course, this course is not intended by itself to make you a full-fledged technical diver. Hopefully it has provided you with some useful information, so that you can better determine your own diving interests and also identify the appropriate training to get you there. You have gained a broad overview of technical diving. Now it is up to you to decide in which direction you will proceed, and how far you will go. Following is a brief review of the other programs previously referenced in this manual that are currently available through TDI and its affiliate SDI.
 
 [Click here for the TDI Course Flowchart](https://www.tdisdi.com/tdi/get-certified/?lang=en_us)
+
+## Nitrox
+
+Nitrox is a breathing gas containing more oxygen and less nitrogen than ambient air. In the TDI Nitrox Diver course, participants learn to plan and conduct dives with nitrox mixtures from 22% to 40% oxygen, using both dive tables and personal dive computers. This range of mixtures has proven to be the most versatile for general sport diving activities. Positioned as the entry-level program in the TDI curriculum, this course also provides a solid foundation for further technical training. TDI’s sport-level affiliate SDI (Scuba Diving International) offers a somewhat streamlined Computer Nitrox course, similarly addressing nitrox mixtures with 22% to 40% oxygen. The basic prerequisite for both the TDI and SDI nitrox programs is an Open Water Diver certification.
+
+## Advanced Nitrox
+
+The TDI Advanced Nitrox Diver course expands upon the information in the Nitrox course, and addresses breathing mixtures beyond 40% oxygen, up to and including 100% oxygen. These mixes have a clear application in technical diving, most often as a deco gas; during staged decompression, a diver may use a high-content nitrox mix to promote the accelerated off-gassing of nitrogen, either for physiological advantage or to reduce the time required at his deco stops. This course also prepares the participant to utilize the high-content nitrox mixes employed in closed-circuit rebreather diving. The prerequisite training for this course is Nitrox Diver or Computer Nitrox Diver.
+
+## Decompression Procedures
+
+The TDI Decompression Procedures course addresses the appropriate techniques of staged decompression, for dives to a maximum depth of 45 metres or 150 feet. Advanced Adventure Diver or Advanced Open Water Diver is the prerequisite training for this program.
+
+## Helitrox
+
+The TDI Helitrox course addresses the appropriate techniques of staged decompression using 21% oxygen and up to 35% helium to reduce narcosis, for dives to a maximum depth of 45 metres or 150 feet. Advanced Adventure Diver or Advanced Open Water Diver is the prerequisite training for this program.
+
+## Extended Range
+
+The TDI Extended Range course prepares the diver to stay even longer at deeper depths, and further extends the diver’s maximum depth to 55 metres or 180 feet. Prerequisite training for this program is both Decompression Procedures/Helitrox and Advanced Nitrox.
+
+## Trimix
+
+Trimix is a nitrogen-helium-oxygen breathing gas used by some technical divers; helium reduces some of the problems associated with nitrogen and oxygen at deeper depths. The TDI Trimix course addresses the use of breathing mixtures containing 18% to 21% oxygen, to a maximum depth of 60 metres or 200 feet. Prerequisite training for this program is both Decompression Procedures/Helitrox and Advanced Nitrox.
+
+## Advanced Trimix
+
+The TDI Advanced Trimix course extends the diver's qualifications to hypoxic breathing mixtures (containing less than 18% oxygen), to a maximum depth of 100 metres or 330 feet. Naturally, Trimix is a prerequisite for this course.
+
+## Advanced Wreck
+
+Wrecks are among the most popular sites for recreational divers. The TDI Advanced Wreck Diver course builds upon the prior prerequisite training of the sport-level Wreck Diver Specialty course, and addresses the proper equipment and proper procedures for venturing further into the interior of wrecks, beyond the ambient light zone. Advanced Adventure Diver or Advanced Open Water Diver is an additional prerequisite.
+
+## Cavern and Cave
+
+The TDI Cavern Diver course is the entry-level program for caves, and is exclusively conducted within the ambient light zone of a cave opening (similar to the limited penetration in the sport-level wreck specialty). The prerequisite for the cavern program is Open Water Diver certification. The training then continues with the TDI Introductory Cave Diver and Full Cave Diver courses, allowing progressively further penetration.
+
+## Mine I and II
+
+TDI Mine Diver Level 1 is an introduction to the basic principles of mine diving utilizing a single primary guide line. This continues on to Mine Diver Level 2 where emphasis is placed upon dive planning and skill perfection through actual mine penetration.
+
+## Rebreathers
+
+TDI offers a comprehensive curriculum of unit-specific Closed Circuit Rebreather and Semi-Closed Circuit Rebreather courses. The prerequisites include Nitrox Diver for all of the SCR programs, and Advanced Nitrox Diver for the basic CCR programs.
+
+## Solo Diving
+
+The Solo Diver course is offered through TDI's affiliate, SDI (Scuba Diving International). SDI was the first and currently remains the only internationally recognized training organization to offer a solo certification. The prerequisites for this course include Advanced Adventure Diver or Advanced Open Water Diver plus a minimum of 100 logged dives.
