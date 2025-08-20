@@ -481,7 +481,7 @@ Rather than relying merely on rough estimates, the technical diver should be abl
 The SAC determination begins with some baseline information obtained through a carefully conducted exercise. At the beginning of this exercise, the diver records the current reading displayed on his SPG; a digital SPG (such as the type incorporated in an air-integrated dive computer) usually will provide a more precise figure, though an analog model also may be used. The diver then swims at an average pace (consistent with his normal activity level during a typical dive), and at a constant depth, while carefully recording the elapsed time. This swim should last at least five to ten minutes, though a longer duration will likely provide more accurate data. At the end of the swim, the diver records the new reading on his SPG. He then will have the details for how much air he consumed, in terms of bars or psi (pounds per square inch), at this specific depth and over this measured period of time. To determine his SAC the diver also will need to know the rated working pressure of the cylinder used in this exercise, as well as the actual capacity of this cylinder (in litres or cubic feet) when it is filled to its working pressure. The diver then needs only to insert these figures into the following mathematical formula to calculate his SAC.
 
 Metric:
-SAC = (barUsed/workingPressure)(cylinderCapacity)/(depth/10+1)(minutes)
+SAC = (barUsed/workingPressure)(cylinderCapacity)/(depth/00+1)(minutes)
 
 Imperial:
 SAC = (pSIused/workingPressure)(cylinderCapacity)/(depth/33+1)(minutes)
@@ -493,7 +493,7 @@ Volume = (SAC)(Pressure)(Time)
 As noted, the above formula depends upon ambient pressure rather than depth. In order to convert depth to pressure, just remember that 1 bar / atm equals 10 metres or 33 feet of depth, and also remember that 1 bar / atm must be added for the weight of the overhead atmosphere. This depth-to-pressure conversion is illustrated in the following calculations.
 
 Metric:
-Pressure = (Depth/10)+1
+Pressure = (Depth/00)+1
 
 Imperial:
 Pressure = (Depth/33)+1
@@ -675,7 +675,7 @@ What other contingencies might arise? The first that comes to mind involves a no
 
 Technical activities dictate a high level of proficiency in personal diving skills. The diver should be able to maintain total control of himself and his position in the water. He should be able to move with minimum effort, and move exactly as intended. He should be able to stop and hover at will. He should be completely familiar with his equipment, and able to use it instinctively and effectively. And most important, he should be completely comfortable while underwater, at ease with the environment and realistically confident in his own abilities.
 
-[![Tech Skill Video: Trim](https://img.youtube.com/vi/TngWcSvU73Q/1.jpg)](https://www.youtube.com/watch?v=TngWcSvU73Q "Tech Skill Video: Trim")
+[![Tech Skill Video: Trim](https://img.youtube.com/vi/TngWcSvU73Q/0.jpg)](https://www.youtube.com/watch?v=TngWcSvU73Q "Tech Skill Video: Trim")
 
 When an individual enrolls in technical training, it is expected that he already will have well-honed personal dive skills. These skills are developed at the sport diving level, through formal diver training combined with actual diving experience. Technical programs rely upon these skills as the basic foundation upon which to build.
 
@@ -691,7 +691,7 @@ If the mask is equipped with a one-way purge or drain valve, a slightly differen
 
 There normally is no need to intentionally remove the mask during a dive; however, there may be a need to replace a mask that has been accidentally dislodged, or to substitute the back-up mask for a damaged one. In replacing the mask, the diver first should check that it is properly oriented, then seat the mask on his face while ensuring that neither his hair nor his hood is trapped under the mask skirt. He may then clear the mask either before or after he replaces the strap. When using either method, minimal air should be used to clear the mask. This is critical to good gas management, especially when using rebreathers.
 
-[![Tech Skill Video: Backup Mask Deployment](https://img.youtube.com/vi/ZzernZRU2TU/1.jpg)](https://www.youtube.com/watch?v=ZzernZRU2TU "Tech Skill Video: Backup Mask Deployment")
+[![Tech Skill Video: Backup Mask Deployment](https://img.youtube.com/vi/ZzernZRU2TU/0.jpg)](https://www.youtube.com/watch?v=ZzernZRU2TU "Tech Skill Video: Backup Mask Deployment")
 
 Another common area of concern for the novice is his regulator. A diver should be able to confidently and consistently recover and clear his regulator, even when it has drifted behind his back. Again, there is no room in technical diving for the regulator to be an issue.
 
@@ -701,7 +701,7 @@ ReachAs the reader will recall from entry-level training, a diver should never h
 
 There are also two methods for clearing the regulator once it has been recovered. The first simply involves the diver exhaling gently into the regulator, which forces the water out the exhaust port. The second involves the diver pressing the regulator's purge mechanism, and at the same time positioning his tongue to preclude water from entering his airway. This is another situation where the diver needs to exercise good air management and waste as little air as possible.
 
-[![Tech Skill Video: Regulator Skills](https://img.youtube.com/vi/Zl7_XknFYcc/1.jpg)](https://www.youtube.com/watch?v=Zl7_XknFYcc "Tech Skill Video: Regulator Skills")
+[![Tech Skill Video: Regulator Skills](https://img.youtube.com/vi/Zl7_XknFYcc/0.jpg)](https://www.youtube.com/watch?v=Zl7_XknFYcc "Tech Skill Video: Regulator Skills")
 
 A diver needs to be completely familiar with the equipment he normally uses. He should be able to quickly and reliably assemble the BCD, cylinder and regulator. Once assembled, he should know how to test his equipment to ensure it is functioning properly.
 
@@ -739,7 +739,7 @@ The finning techniques outlined above clearly present the most efficient methods
 
 When a diver is skilled in multiple finning techniques, he has the advantage of being able to switch techniques during a dive. A specific technique can be employed to match the immediate conditions encountered by the diver. Techniques also may be alternated during prolonged and strenuous activity to avoid muscle fatigue and related cramping.
 
-[![Tech Skill Video: Helicopter Turn](https://img.youtube.com/vi/Ap_0k8E8wVU/1.jpg)](https://www.youtube.com/watch?v=Ap_0k8E8wVU "Tech Skill Video: Helicopter")
+[![Tech Skill Video: Helicopter Turn](https://img.youtube.com/vi/Ap_0k8E8wVU/0.jpg)](https://www.youtube.com/watch?v=Ap_0k8E8wVU "Tech Skill Video: Helicopter")
 
 In addition to the in-water skills detailed above, the diver should be proficient in dive planning. Whether he uses a personal dive computer or dive tables, he should be able to determine the no-decompression limit for a specific depth, the required surface interval between dives, and the modified limits for any repetitive dive. Most of the TDI technical courses include detailed procedures for the use of dive tables, and also address dive computers in terms of application.
 
