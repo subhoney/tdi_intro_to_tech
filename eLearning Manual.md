@@ -753,3 +753,34 @@ In relation to technical diving it is important to note that, depending upon the
 | ------------- | --------------- | ----------- | ------------------------ | ------------------------ | ---------------- |
 | **Stop Time** | 140 ft / 42.6 m | 30          | -                        | 44                       | N                |
 | **Run Time**  | 140 ft / 42.6 m | 30          | -                        | 78:40                    | K                |
+
+By far, dive tables utilizing the stop time format are more common, and sometimes this format is a bit easier for the aspiring technical diver to comprehend. Nevertheless, in real world diving applications, the run time format often proves more useful. This is due to the simple fact that most underwater timing devices measure total elapsed time; in other words, they track the diver's run time. Thus, in terms of efficiency, it's logical for a diver to plan and execute his dive based upon the same format employed by his instrumentation. Accordingly, even though he might rely upon the more commonly available stop time dive tables during the planning process, the knowledgeable technical diver routinely converts all information to run time.
+
+It is also important to note that certain dive operators, particularly those catering to technical divers, routinely request that each individual file a dive plan with the crew before entering the water; at the minimum, this information typically includes the total run time for each dive.
+
+A technical diver should be completely honest with himself about his proficiency as a diver. He will know those things that he already does well. Most importantly, he recognizes those areas to which he needs to devote additional effort.
+
+Similarly, it is now time for the reader to reflect on his own abilities as a diver. Following is a summary list of the personal dive skills detailed above. For each item on this list, the reader should evaluate whether his current skill level is excellent, adequate, or needs some work. This will assist the reader in focusing upon the specific areas that require attention prior to subsequent technical training. It additionally provides a mechanism for the instructor of this course to offer some guidance where appropriate.
+
+| Personal Dive Skills             | Excellent | Adequate | Needs Work |
+| -------------------------------- | --------- | -------- | ---------- |
+| Overall Comfort While Underwater |           |          |            |
+| Mask Clearing                    |           |          |            |
+| Mask Removal and Replacement     |           |          |            |
+| Swimming Without Mask            |           |          |            |
+| Regulator Recovery               |           |          |            |
+| Regulator Clearing               |           |          |            |
+| Equipment Set-Up                 |           |          |            |
+| Accessibility of Critical Items  |           |          |            |
+| Streamlining of Equipment        |           |          |            |
+| Proper Weighting                 |           |          |            |
+| Buoyancy Control                 |           |          |            |
+| Hovering                         |           |          |            |
+| Balance                          |           |          |            |
+| Arms Stationary While Finning    |           |          |            |
+| Scissors Kick                    |           |          |            |
+| Flutter Kick                     |           |          |            |
+| Frog Kick                        |           |          |            |
+| Modified Frog Kick               |           |          |            |
+| Dive Planning / Using Computer   |           |          |            |
+| Dive Planning / Using Tables     |           |          |            |
