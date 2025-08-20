@@ -64,6 +64,7 @@
 - [Chapter 8: Dive Planning with a Personal Dive Computer](#chapter-8-dive-planning-with-a-personal-dive-computer)
   - [Topics Covered in this Chapter](#topics-covered-in-this-chapter)
   - [Chapter 8 Content](#chapter-8-content)
+  - [Almost There!](#almost-there)
 
 <!-- /TOC -->
 
@@ -974,20 +975,6 @@ Proof of appropriate diver and/or TDI certification
 You may also be required to pay an additional fee for the practical/skill development portion of your course.
 Your Instructor will also have you complete an additional medical statement, and may at his or her discretion have you complete an additional written and/or oral examination.
 
-On the following exam, you may be asked questions pertaining to the US Navy Dive Tables. If you need to download the US Navy Dive Tables, [please click here](https://www.tdisdi.com/wp-content/uploads/files/eLearning/eLearning_tables/navy/air_deco_table.pdf?lang=en_us]).
-
-(Note: Embedding the image of the Navy Dive Tables here too. -Ed.)
-
-<iframe
-  src="/pdf/air_deco_table.pdf"
-  width="100%"
-  height="600px"
-  style="border: none;">
-</iframe>
-
-<object data="/pdf/air_deco_table.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/pdf/air_deco_table.pdf">
-    </embed>
-</object>
+On the following exam, you may be asked questions pertaining to the US Navy Dive Tables. If you need to download the US Navy Dive Tables, [please click here](/pdf/air_deco_table.pdf).
 
 Please direct any questions regarding the program to your instructor, and good luck on your final exam!
