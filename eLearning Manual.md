@@ -945,3 +945,19 @@ To keep track of things during the planning process, it is helpful for the diver
 - Basic Dive Planning with a Personal Dive Computer
 
 ## Chapter 8 Content
+
+This information is presented as a general orientation to personal dive computers. There is a wide assortment of dive computers currently on the market, and though each may be unique in certain respects, most tend to share a number of common functions and features. This discussion will focus upon use of a personal dive computer in terms of procedural applications for no-decompression diving with air as the diver's breathing gas. For more specific instructions concerning a particular model, the reader is directed to the owner's manual published by that computer's manufacturer.
+
+![Comp Example](/img/ITT_8_2_1.jpg)
+
+Personal dive computers have three common operating functions — Planning Mode, Dive Mode, and Logbook Mode.
+
+In the Planning Mode, the personal dive computer calculates and displays the applicable no-decompression limits at various depths for the next dive. These calculations effectively encompass the residual nitrogen from any prior dives, as well as the surface intervals between dives. This information typically is presented in a scrolling format, one depth after another (often in increments of 3 metres or 10 feet of depth), so that the diver readily may identify his no-decompression limit at his planned depth. Most computers calculate these limits in the present tense, that is, based upon the diver's current surface interval (in other words, if he started his next dive right now). Some models additionally allow the diver to manually enter an extended surface interval into the calculations (for example, if he started his next dive 30 minutes from now).
+
+![Comp Example](/img/ITT_8_3_1.jpg)
+
+In the Dive Mode, the personal dive computer monitors and displays the diver's current depth, his maximum depth during this dive, his elapsed dive time, and most importantly his remaining no-decompression limit at his current depth. The no-decompression limit is based upon the diver's actual time at all varying depths during this dive, as well as any residual nitrogen from prior dives. As the diver ascends or descends by even a relatively minor amount, the computer continuously re-calculates the no-decompression limit and displays the new information accordingly. Some models display additional though less critical information, such as water temperature and time of day. All computers include some type of rapid ascent warning — either audible, visual, or perhaps both.
+
+In the Logbook Mode, the personal dive computer allows the diver to review the recorded details of his past dives. In basic models, this information may be limited to dive date and time, maximum depth, and elapsed dive time. Some provide additional dive details directly on the unit's built-in display, while many of the newer models also allow an even more extensive download of data to a laptop or desktop computer.
+
+Important Note: In order for a personal dive computer to effectively monitor its user's diving activities and accurately perform its dive-related calculations, it must accompany the diver on each and every dive.
