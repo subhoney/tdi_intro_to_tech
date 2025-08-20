@@ -735,3 +735,16 @@ The finning techniques outlined above clearly present the most efficient methods
 When a diver is skilled in multiple finning techniques, he has the advantage of being able to switch techniques during a dive. A specific technique can be employed to match the immediate conditions encountered by the diver. Techniques also may be alternated during prolonged and strenuous activity to avoid muscle fatigue and related cramping.
 
 [![Tech Skill Video: Helicopter Turn](https://img.youtube.com/vi/Ap_0k8E8wVU.jpg)](https://www.youtube.com/watch?v=Ap_0k8E8wVU "Tech Skill Video: Helicopter")
+
+In addition to the in-water skills detailed above, the diver should be proficient in dive planning. Whether he uses a personal dive computer or dive tables, he should be able to determine the no-decompression limit for a specific depth, the required surface interval between dives, and the modified limits for any repetitive dive. Most of the TDI technical courses include detailed procedures for the use of dive tables, and also address dive computers in terms of application.
+
+Appendix 2 of the course manual, and chapter 8 of this eLearning course provides a general orientation for those readers who may be unfamiliar with personal dive computers; for specific information regarding a particular dive computer, the reader should consult the owner's manual provided by the manufacturer.
+
+Those who are unfamiliar with dive tables, or perhaps just a little out of practice, are directed to Appendix 1 of the course manual for appropriate instructions on their use.
+
+In relation to technical diving it is important to note that, depending upon their design, dive tables may present information in either a stop time or run time format. Both formats address bottom time in the same manner (as elapsed time, from the beginning of the descent to the beginning of the ascent); however, when it comes to staged decompression, the formats differ significantly. In the stop time format the tables denote the actual time required at each deco stop. Conversely, in the run time format the tables denote the total elapsed time upon completion of each deco stop; this total elapsed time includes the prior bottom time, the interim ascent time, and all deco stops completed up to this point. For comparison, these two formats are depicted in the accompanying illustration.
+
+|               | Depth           | Bottom Time | Deco Stops (30 ft / 9 m) | Deco Stops (20 ft / 6 m) | Repetitive Group |
+| ------------- | --------------- | ----------- | ------------------------ | ------------------------ | ---------------- |
+| **Stop Time** | 140 ft / 42.6 m | 30          | -                        | 44                       | N                |
+| **Run Time**  | 140 ft / 42.6 m | 30          | -                        | 78:40                    | K                |
