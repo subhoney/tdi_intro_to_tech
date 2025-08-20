@@ -687,3 +687,13 @@ If the mask is equipped with a one-way purge or drain valve, a slightly differen
 There normally is no need to intentionally remove the mask during a dive; however, there may be a need to replace a mask that has been accidentally dislodged, or to substitute the back-up mask for a damaged one. In replacing the mask, the diver first should check that it is properly oriented, then seat the mask on his face while ensuring that neither his hair nor his hood is trapped under the mask skirt. He may then clear the mask either before or after he replaces the strap. When using either method, minimal air should be used to clear the mask. This is critical to good gas management, especially when using rebreathers.
 
 [![Tech Skill Video: Backup Mask Deployment](https://img.youtube.com/vi/ZzernZRU2TU.jpg)](https://www.youtube.com/watch?v=ZzernZRU2TU "Tech Skill Video: Backup Mask Deployment")
+
+Another common area of concern for the novice is his regulator. A diver should be able to confidently and consistently recover and clear his regulator, even when it has drifted behind his back. Again, there is no room in technical diving for the regulator to be an issue.
+
+There are two methods for recovering the regulator. The first is the sweep technique: the diver leans to his scuba unit and sweeps his outstretched right arm from the front to the rear, hooking the regulator hose with his arm. The second is the reach technique: with his right hand the diver reaches behind his head and simply grasps the regulator hose near the first stage. In some cases this hose may be easier to reach if the diver simultaneously lifts the cylinder from its bottom with his left hand.
+
+ReachAs the reader will recall from entry-level training, a diver should never hold his breath underwater; anytime the regulator is out of his mouth, he should be exhaling a small stream of bubbles to keep his airway open.
+
+There are also two methods for clearing the regulator once it has been recovered. The first simply involves the diver exhaling gently into the regulator, which forces the water out the exhaust port. The second involves the diver pressing the regulator's purge mechanism, and at the same time positioning his tongue to preclude water from entering his airway. This is another situation where the diver needs to exercise good air management and waste as little air as possible.
+
+[![Tech Skill Video: Regulator Skills](https://img.youtube.com/vi/Zl7_XknFYcc.jpg)](https://www.youtube.com/watch?v=Zl7_XknFYcc "Tech Skill Video: Regulator Skills")
