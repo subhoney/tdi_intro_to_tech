@@ -985,4 +985,9 @@ On the following exam, you may be asked questions pertaining to the US Navy Dive
   style="border: none;">
 </iframe>
 
+<object data="/pdf/air_deco_table.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/pdf/air_deco_table.pdf">
+    </embed>
+</object>
+
 Please direct any questions regarding the program to your instructor, and good luck on your final exam!
