@@ -40,6 +40,7 @@
   - [Contingency Procedures](#contingency-procedures)
 - [Chapter 5: Prerequisite Dive skills](#chapter-5-prerequisite-dive-skills)
   - [Topics Covered in this Chapter](#topics-covered-in-this-chapter)
+  - [Chapter 5 Content](#chapter-5-content)
 
 <!-- /TOC -->
 
@@ -667,6 +668,10 @@ What other contingencies might arise? The first that comes to mind involves a no
 - Regulator Skills
 - Equipment Handling Skills
 - Weighting and Buoyancy Skills
+
+## Chapter 5 Content
+
+(Note: This chapter doesn't have headers. Sorry for the poor formatting; it's preserved here. -Ed.)
 
 Technical activities dictate a high level of proficiency in personal diving skills. The diver should be able to maintain total control of himself and his position in the water. He should be able to move with minimum effort, and move exactly as intended. He should be able to stop and hover at will. He should be completely familiar with his equipment, and able to use it instinctively and effectively. And most important, he should be completely comfortable while underwater, at ease with the environment and realistically confident in his own abilities.
 
