@@ -39,6 +39,7 @@
   - [Solo Diving](#solo-diving)
   - [Contingency Procedures](#contingency-procedures)
 - [Chapter 5: Prerequisite Dive skills](#chapter-5-prerequisite-dive-skills)
+  - [Topics Covered in this Chapter](#topics-covered-in-this-chapter)
 
 <!-- /TOC -->
 
@@ -658,3 +659,31 @@ Following is a list of some reasonably foreseeable contingencies for the reader 
 What other contingencies might arise? The first that comes to mind involves a non-responsive buddy; here the diver should turn to those procedures outlined in first aid, CPR, and rescue diver training. Of course, other contingencies also exist, and these are further explored in the technical diver courses related to each specialty area.
 
 # Chapter 5: Prerequisite Dive skills
+
+## Topics Covered in this Chapter
+
+- Skills That Every Tech Diver Should Have
+- Mask Skills
+- Regulator Skills
+- Equipment Handling Skills
+- Weighting and Buoyancy Skills
+
+Technical activities dictate a high level of proficiency in personal diving skills. The diver should be able to maintain total control of himself and his position in the water. He should be able to move with minimum effort, and move exactly as intended. He should be able to stop and hover at will. He should be completely familiar with his equipment, and able to use it instinctively and effectively. And most important, he should be completely comfortable while underwater, at ease with the environment and realistically confident in his own abilities.
+
+[![Tech Skill Video: Trim](https://img.youtube.com/vi/TngWcSvU73Q.jpg)](https://www.youtube.com/watch?v=TngWcSvU73Q "Tech Skill Video: Trim")
+
+When an individual enrolls in technical training, it is expected that he already will have well-honed personal dive skills. These skills are developed at the sport diving level, through formal diver training combined with actual diving experience. Technical programs rely upon these skills as the basic foundation upon which to build.
+
+Unfortunately, despite the number of dives in a log book or c-cards in his wallet, not every sport diver possesses the appropriate skills for technical diving. The true measure of an individual's skills is the way he conducts himself in the water. Key skills are outlined below. In reviewing this information, if the reader concludes that his own skills might be a little weak in a certain area, now would be the appropriate time to start refining these skills, either through individual efforts or with the guidance of a TDI dive professional.
+
+It is not uncommon for a novice diver to be a bit intimidated about anything involving his mask. Learning to deal with a minor inconvenience like clearing water from the mask during entry-level training goes a long way toward improving his overall comfort while underwater. However, sometimes an individual diver never quite gets past his issues with the mask, and it always remains a rather stressful situation. In the worst case, the diver might have a nagging fear about the possibility of his mask being knocked ajar that haunts him throughout a dive; this might quickly lead to panic with the diver bolting for the surface.
+
+A diver should be able to confidently and consistently clear water from his mask, remove his mask and replace it at depth, and swim underwater without his mask. This should be practiced until it becomes natural and intuitive. There simply is no room in technical diving for the mask to be an issue.
+
+To clear water from the mask, the diver should lightly press the top of the mask to his forehead, and then look slightly upwards while exhaling through his nose. A slow "push" of exhaled air usually works better than a "blast." The water will be drained from his mask at the bottom. There is no need to pull the bottom of the mask completely away from the face; doing so actually may allow additional water to enter the mask more quickly than it is being cleared.
+
+If the mask is equipped with a one-way purge or drain valve, a slightly different technique may be used. Here the diver will lightly press the entire mask against his face, look straight ahead or slightly downward, and exhale through his nose.
+
+There normally is no need to intentionally remove the mask during a dive; however, there may be a need to replace a mask that has been accidentally dislodged, or to substitute the back-up mask for a damaged one. In replacing the mask, the diver first should check that it is properly oriented, then seat the mask on his face while ensuring that neither his hair nor his hood is trapped under the mask skirt. He may then clear the mask either before or after he replaces the strap. When using either method, minimal air should be used to clear the mask. This is critical to good gas management, especially when using rebreathers.
+
+[![Tech Skill Video: Backup Mask Deployment](https://img.youtube.com/vi/ZzernZRU2TU.jpg)](https://www.youtube.com/watch?v=ZzernZRU2TU "Tech Skill Video: Backup Mask Deployment")
