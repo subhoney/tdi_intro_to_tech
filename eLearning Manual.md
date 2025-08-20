@@ -60,6 +60,10 @@
   - [Topics Included in this Chapter](#topics-included-in-this-chapter)
   - [General Rules](#general-rules)
   - [Instructions for Use](#instructions-for-use)
+  - [Dive Planning Worksheet](#dive-planning-worksheet)
+- [Chapter 8: Dive Planning with a Personal Dive Computer](#chapter-8-dive-planning-with-a-personal-dive-computer)
+  - [Topics Covered in this Chapter](#topics-covered-in-this-chapter)
+  - [Chapter 8 Content](#chapter-8-content)
 
 <!-- /TOC -->
 
@@ -933,3 +937,11 @@ The following rules apply to all dives planned with the US Navy Dive Tables:
 To keep track of things during the planning process, it is helpful for the diver to organize his calculations in a standardized format with all critical information entered around a graphic depiction of his dives. The preceding examples for the US Navy dive tables defined a series of two dives: first dive to 100 feet / 30 metres for 20 minutes actual bottom time; 2:00 surface interval; second dive to 70 feet / 21 metres for 15 minutes actual bottom time. Using the same tables, it was determined that the ending pressure group after the first dive was G; after the surface interval the new pressure group was E; the diver then had 25 minutes of residual nitrogen time at the beginning of the second dive, resulting in 40 minutes total bottom time for that second dive; and after the second dive, the ending pressure group was I. This information effectively is summarized in the following dive planning worksheets.
 
 ![Dive Planning Worksheet](/img/ITT_7_7_1.jpg)
+
+# Chapter 8: Dive Planning with a Personal Dive Computer
+
+## Topics Covered in this Chapter
+
+- Basic Dive Planning with a Personal Dive Computer
+
+## Chapter 8 Content
