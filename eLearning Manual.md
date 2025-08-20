@@ -784,3 +784,23 @@ Similarly, it is now time for the reader to reflect on his own abilities as a di
 | Modified Frog Kick               |           |          |            |
 | Dive Planning / Using Computer   |           |          |            |
 | Dive Planning / Using Tables     |           |          |            |
+
+# Chapter 6: What's Next?
+
+## Topics Covered in this Chapter
+
+- Topics Covered in this Chapter:
+- Charting Your Own Training Path
+- Nitrox
+- Advanced Nitrox
+- Decompression Procedures
+- Extended Range
+- Trimix
+- Advanced Trimix
+- Advanced Wreck
+- Cavern and Cave
+- Rebreathers
+- Solo Diving
+- Additional Course Prerequisites
+
+## Chapter 6 Content
