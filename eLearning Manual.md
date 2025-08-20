@@ -1,11 +1,13 @@
+<!-- TOC -->
+
 - [TDI Intro to Tech](#tdi-intro-to-tech)
-  - [Help/FAQ](#helpfaq)
+- [Help/FAQ](#helpfaq)
 - [Chapter 1: What is Technical Diving?](#chapter-1-what-is-technical-diving)
   - [Welcome to the TDI Introduction to Tech course](#welcome-to-the-tdi-introduction-to-tech-course)
   - [Some Basic Terminology](#some-basic-terminology)
   - [Key Contrasts: Technical vs. Sport Diving](#key-contrasts-technical-vs-sport-diving)
   - [A Bit of History](#a-bit-of-history)
-  - [Commonalities in Recreational Diving](#commonalities-in-recreactional-diving)
+  - [Commonalities in Recreational Diving](#commonalities-in-recreational-diving)
   - [Personal Considerations](#personal-considerations)
 - [Chapter 2: Technical Diving Equipment](#chapter-2-technical-diving-equipment)
   - [General Equipment Issues](#general-equipment-issues)
@@ -23,10 +25,26 @@
     - [Surface Signals](#surface-signals)
   - [Other Useful Accessories](#other-useful-accessories)
   - [Equipment Handling Options](#equipment-handling-options)
+- [Chapter 3: Gasses and Gas Management](#chapter-3-gasses-and-gas-management)
+  - [The Impact of Pressure](#the-impact-of-pressure)
+  - [Air: The Typical Gas for Divers](#air-the-typical-gas-for-divers)
+  - [Nitrox: An Alternate Breathing Gas](#nitrox-an-alternate-breathing-gas)
+  - [Air as a Deep Diving Gas](#air-as-a-deep-diving-gas)
+  - [Trimix: The Gas for Deeper Diving](#trimix-the-gas-for-deeper-diving)
+  - [Effective Gas Management](#effective-gas-management)
+- [Chapter 4: Technical Diving Activities](#chapter-4-technical-diving-activities)
+  - [Staged Decompression](#staged-decompression)
+  - [Overhead Environments](#overhead-environments)
+  - [Rebreather Diving](#rebreather-diving)
+  - [Solo Diving](#solo-diving)
+  - [Contingency Procedures](#contingency-procedures)
+- [Chapter 5: Prerequisite Dive skills](#chapter-5-prerequisite-dive-skills)
+
+<!-- /TOC -->
 
 # TDI Intro to Tech
 
-## Help/FAQ
+# Help/FAQ
 
 Click <https://www.tdisdi.com/faqs/> link to open resource.
 
@@ -103,7 +121,7 @@ In the meantime, those early specialized organizations continued to expand into 
 
 Slowly but surely technical diving has gained wider acceptance, and it seems that tech is now the "hot" dive industry buzzword. At recent trade shows (where even nitrox was once unspoken), almost every major manufacturer is promoting some new item of technical gear. Perhaps the most significant indication of the acceptance of tech is the fact that some of the old sport-only training agencies now are starting to dabble with their own version of a technical curriculum.
 
-## Commonalities in Recreactional Diving
+## Commonalities in Recreational Diving
 
 First and foremost, diving is diving, whether it is sport or technical in nature. The same principles of physics and physiology apply in each case. Much of the equipment is the same, or at least similar in function and use. Every recreational diver appropriately begins his or her training with the Open Water Diver course. Technical training is an extension of sport diving, building upon that foundation provided by each diver’s prior training and experience.
 
@@ -258,7 +276,7 @@ Correctly or incorrectly, some sport divers have adopted the technique of relyin
 
 To further enhance the insulating properties of his dry suit in cold water, a diver may elect to use argon (an inert gas) for suit inflation. Argon has a far lower level of thermal conductivity than air or other breathing gases. The supply of argon is carried in a small cylinder, typically attached to the side of the BCD harness or backplate, tucked behind the diver; a standard first stage and inflator hose are used with this cylinder for dry suit inflation. Naturally, the argon cylinder should be prominently labeled, and frequently it is also painted an orange color to avoid any confusion regarding its contents. If inhaled, argon can cause anoxia and significant narcosis.
 
-Editor's note: _Anoxia_ is the total absense of oxygen; compare with _hypoxia_, where oxygen is present in breathing gas, but not in enough of a quantity to support metabolization. Breathing from an argon cylinder will cause anoxia, while breating a 12% O2 cylinder (at the surface) will cause hypoxia.
+Editor's note: _Anoxia_ is the total absence of oxygen; compare with _hypoxia_, where oxygen is present in breathing gas, but not in enough of a quantity to support metabolization. Breathing from an argon cylinder will cause anoxia, while breathing a 12% O2 cylinder (at the surface) will cause hypoxia.
 
 ## Weights
 
@@ -270,9 +288,9 @@ The technical diver will usually require some sort of weight system. This may be
 
 trilobyte.jpg
 
-The technical diver should be equipped with a minimum of two cutting devices. These may be any combination of dive knifes, shears, or line cutters. It is important that at least one of these devices be easily accessible to the diver with either hand; this means that the primary cutting device is usually positioned somewhere on the BCD in front of the diver’s torso. The additional (redundant) cutting device, depending upon type, may be strapped to the diver’s leg, stored in a pocket, or otherwise attached to his scuba unit.
+The technical diver should be equipped with a minimum of two cutting devices. These may be any combination of dive knives, shears, or line cutters. It is important that at least one of these devices be easily accessible to the diver with either hand; this means that the primary cutting device is usually positioned somewhere on the BCD in front of the diver’s torso. The additional (redundant) cutting device, depending upon type, may be strapped to the diver’s leg, stored in a pocket, or otherwise attached to his scuba unit.
 
-The knife has long been the diver’s standard cutting tool, and it will serve quite effectively in many emergency situations such as when a diver needs to cut himself free of an entanglement with kelp or monofilament fishing line. However, a diver might encounter other entanglement hazards that are not as easily cut; these can include electrical wires and cables that dangle around a wreck, the metal leaders on some fishing lines, and the materials used in constructing heavier fishing nets. For dealing with these difficult-to-cut hazards, shears often are more effective than a knife. Some equipment manufacturers offer heavy-duty shears specifically designed for dive use. Some divers alternately opt for less expensive utility scissors (sometimes referred to as paramedic shears); these are often available from dive suCutting Devices 2ppliers, and also can be found in the tool aisle of some discount retail stores. Lineman’s pliers or side-cutters from the local hardware store also may be useful but, because these items normally are not made of stainless steel, they require greater care to minimize rust and corrosion. Some divers routinely add a pocket-size multi-tool (with folding pliers, screwdrivers, etc.) to their kit, and without a doubt it will prove helpful for simple topside repairs; but before counting on such a device for emergency underwater use, the diver must ensure that he can reliably access its various cutting features while wearing dive gloves.
+The knife has long been the diver’s standard cutting tool, and it will serve quite effectively in many emergency situations such as when a diver needs to cut himself free of an entanglement with kelp or monofilament fishing line. However, a diver might encounter other entanglement hazards that are not as easily cut; these can include electrical wires and cables that dangle around a wreck, the metal leaders on some fishing lines, and the materials used in constructing heavier fishing nets. For dealing with these difficult-to-cut hazards, shears often are more effective than a knife. Some equipment manufacturers offer heavy-duty shears specifically designed for dive use. Some divers alternately opt for less expensive utility scissors (sometimes referred to as paramedic shears); these are often available from dive suppliers, and also can be found in the tool aisle of some discount retail stores. Lineman’s pliers or side-cutters from the local hardware store also may be useful but, because these items normally are not made of stainless steel, they require greater care to minimize rust and corrosion. Some divers routinely add a pocket-size multi-tool (with folding pliers, screwdrivers, etc.) to their kit, and without a doubt it will prove helpful for simple topside repairs; but before counting on such a device for emergency underwater use, the diver must ensure that he can reliably access its various cutting features while wearing dive gloves.
 
 knife.jpg
 
@@ -286,7 +304,7 @@ slate.jpg
 
 In addition, a separate slate carried in a pocket or worn on the wrist is a critically important piece of equipment for the technical diver as this is where he records the details of his dive plan and mandatory decompression stops. This slate will serve as the primary reference when using a depth gauge and bottom timer, or as a back-up reference when using a dive computer.
 
-Editor's note: The GUE metholdoly for underwater communication is wetNotes, and I agree with this over slates. They are carried in the right drysuit thigh pocket, bungeed in as normal.
+Editor's note: The GUE methodology for underwater communication is wetNotes, and I agree with this over slates. They are carried in the right drysuit thigh pocket, bungeed in as normal.
 
 ### Lift Bag and Reel
 
@@ -300,7 +318,7 @@ Editor's note: the eLearning manual includes an embedded link to a 1min [video](
 
 Depending upon location and circumstances, at a minimum each diver should be equipped with both an audible and a visual surface signaling device. A simple whistle has long been the standard audible signal. For greater effectiveness, the diver might also consider one of the air-powered horn-like devices that are attached in-line on the BCD inflator hose. A brightly colored inflatable tube, sometimes referred to as a safety sausage, makes an effective visual device that is especially advantageous in rough seas. The diver also might consider a signaling mirror, or the signal flares specially intended for divers.
 
-Surrface Signals.jpg
+Surface Signals.jpg
 
 ## Other Useful Accessories
 
@@ -638,3 +656,5 @@ Following is a list of some reasonably foreseeable contingencies for the reader 
 - Silt-out inside a wreck or cave
 
 What other contingencies might arise? The first that comes to mind involves a non-responsive buddy; here the diver should turn to those procedures outlined in first aid, CPR, and rescue diver training. Of course, other contingencies also exist, and these are further explored in the technical diver courses related to each specialty area.
+
+# Chapter 5: Prerequisite Dive skills
