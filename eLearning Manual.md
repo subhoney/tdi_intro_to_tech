@@ -50,6 +50,12 @@
   - [Helitrox](#helitrox)
   - [Extended Range](#extended-range)
   - [Trimix](#trimix)
+  - [Advanced Trimix](#advanced-trimix)
+  - [Advanced Wreck](#advanced-wreck)
+  - [Cavern and Cave](#cavern-and-cave)
+  - [Mine I and II](#mine-i-and-ii)
+  - [Rebreathers](#rebreathers)
+  - [Solo Diving](#solo-diving)
 
 <!-- /TOC -->
 
@@ -865,3 +871,5 @@ TDI offers a comprehensive curriculum of unit-specific Closed Circuit Rebreather
 ## Solo Diving
 
 The Solo Diver course is offered through TDI's affiliate, SDI (Scuba Diving International). SDI was the first and currently remains the only internationally recognized training organization to offer a solo certification. The prerequisites for this course include Advanced Adventure Diver or Advanced Open Water Diver plus a minimum of 100 logged dives.
+
+The prerequisite certifications noted previously are provided only as minimum requirements for the general information of the reader. Some courses dictate a minimum level of diving experience demonstrated by a participant's prior logged dives. Younger divers should note that minimum age limits also apply in most cases. Additional prerequisites may be dictated by local custom and/or diving environments. In some cases two courses may be combined into a single program; in such a case, the more stringent prerequisites will apply. The reader, therefore, should consult his TDI instructor or dive center for specific details regarding these courses.
