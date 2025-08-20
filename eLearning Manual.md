@@ -56,6 +56,9 @@
   - [Mine I and II](#mine-i-and-ii)
   - [Rebreathers](#rebreathers)
   - [Solo Diving](#solo-diving)
+- [Chapter 7: Basic Dive Planning with the US Navy Dive Tables](#chapter-7-basic-dive-planning-with-the-us-navy-dive-tables)
+  - [Topics Included in this Chapter](#topics-included-in-this-chapter)
+  - [General Rules](#general-rules)
 
 <!-- /TOC -->
 
@@ -881,3 +884,17 @@ The prerequisite certifications noted previously are provided only as minimum re
 - General Rules
 - Instruction for Use
 - Dive Planning Worksheet
+
+This information is presented for readers who may be unfamiliar with the use of dive tables, or who may simply be a little out of practice. The US Navy Dive Tables have seen widespread use among the recreational, commercial, and scientific diving communities, and the TDI version of these tables is used here for demonstration purposes. This discussion will address no-decompression dive planning with air as the diver's breathing gas.
+
+## General Rules
+
+The following rules apply to all dives planned with the US Navy Dive Tables:
+
+- Always use the exact or next greater depth, and the exact or next longer time.
+- Each dive is calculated at its maximum depth, even if this depth was only momentary during the dive.
+- The diver's bottom time is calculated from the beginning of the descent to the beginning of a direct ascent to the surface.
+- The maximum ascent rate is 9 metres or 30 feet per minute.
+- An optional safety stop of 3 to 5 minutes at 3 to 6 metres or 10 to 20 feet may be included during the ascent; this stop is not included in the diver's bottom time.
+
+![Navy Dive Table](https://elearning.tdisdi.com/pluginfile.php/2764/mod_lesson/page_contents/1635/air_deco_table_side1.png?time=1636034216601)
