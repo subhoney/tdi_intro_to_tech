@@ -897,4 +897,4 @@ The following rules apply to all dives planned with the US Navy Dive Tables:
 - The maximum ascent rate is 9 metres or 30 feet per minute.
 - An optional safety stop of 3 to 5 minutes at 3 to 6 metres or 10 to 20 feet may be included during the ascent; this stop is not included in the diver's bottom time.
 
-![Navy Dive Table](https://elearning.tdisdi.com/pluginfile.php/2764/mod_lesson/page_contents/1635/air_deco_table_side1.png?time=1636034216601)
+![Navy Dive Tables](/img/air_deco_table_side1.png)
